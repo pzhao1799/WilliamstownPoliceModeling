@@ -10,7 +10,7 @@ from deskew_utils import determine_skew
 
 prepend = "./records"
 page_file = prepend + "/test.pdf"
-pages = pdf.convert_from_path(page_file, dpi = 500)
+pages = pdf.convert_from_path(page_file, dpi = 400)
 
 print("Finished page generation")
 
@@ -32,16 +32,16 @@ for i in range(1, i):
     image_file = Image.open(filename)
     image_file= image_file.convert('L') # convert image to monochrome - this works
     image_file= image_file.convert('1') # convert image to black and white 
-    image_file = image_file.rotate(17)
-    angle = determine_skew(np.array(image_file)) 
-    print(angle)
-    image_file= image_file.rotate(angle)
+    # image_file = image_file.rotate(17)
+    # angle = determine_skew(np.array(image_file)) 
+    # print(angle)
+    # image_file= image_file.rotate(angle)
     #osd = pt.image_to_osd(image_file)
     # print(osd)
     # angle = re.search('(?<=Rotate: )\d+', osd).group(0)
     # print("angle: ", angle)
 
-    text = str(((pt.image_to_string(image_file))))
+    text = str(((pt.image_to_string(image_file, config='--psm 6'))))
     text = text.replace('-\n', '') # remove hyphens at end of lines
     fp.write(text)
     print("OCR'd a page...")
