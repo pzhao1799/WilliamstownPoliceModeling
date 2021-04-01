@@ -5,7 +5,7 @@ import re
 from PIL import Image
 from deskew_utils import determine_skew
 
-# pip3 install pytesseract, Pillow, pdf2image 
+# pip3 install pytesseract, Pillow, pdf2image, scikit-image, numpy
 # sudo apt-get install tesseract-ocr, poppler-utils
 
 prepend = "./records"
