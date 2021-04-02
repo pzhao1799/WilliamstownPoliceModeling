@@ -8,7 +8,7 @@ from deskew_utils import determine_skew
 # pip3 install pytesseract, Pillow, pdf2image, scikit-image, numpy
 # sudo apt-get install tesseract-ocr, poppler-utils
 
-prepend = "./records"
+prepend = "./high_res"
 page_file = prepend + "/test.pdf"
 pages = pdf.convert_from_path(page_file, dpi = 400)
 
