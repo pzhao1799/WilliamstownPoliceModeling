@@ -1,14 +1,12 @@
 import pytesseract as pt
 import pdf2image as pdf
-import numpy as np
-import re
 from PIL import Image
 from deskew_utils import determine_skew
 
 # pip3 install pytesseract, Pillow, pdf2image, scikit-image, numpy
 # sudo apt-get install tesseract-ocr, poppler-utils
 
-prepend = "./high_res"
+prepend = "./low_res"
 page_file = prepend + "/test.pdf"
 pages = pdf.convert_from_path(page_file, dpi = 400)
 
@@ -16,7 +14,7 @@ print("Finished page generation")
 
 i = 1
 for page in pages:
-    image_name = prepend + "/page_" + str(i) + ".png"  
+    image_name = prepend + "/images/page_" + str(i) + ".png"  
     page.save(image_name, "PNG")
     i+=1
     print("Finished a page...")
@@ -28,7 +26,7 @@ print("Finished pdf to image...")
 
 for i in range(1, i):
 
-    filename = prepend + "/page_" + str(i) + ".png"
+    filename = prepend + "/images/page_" + str(i) + ".png"
     image_file = Image.open(filename)
     image_file= image_file.convert('L') # convert image to monochrome - this works
     image_file= image_file.convert('1') # convert image to black and white 
