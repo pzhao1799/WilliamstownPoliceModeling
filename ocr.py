@@ -34,7 +34,7 @@ def ocr(png_path, fp):
     image_file = Image.open(png_path)
     image_file = image_file.convert('L') # convert image to monochrome
     image_file = image_file.convert('1') # convert image to black and white 
-    text = str(((pt.image_to_string(image_file, config='--psm 6'))))
+    text = str(((pt.image_to_string(image_file, config='--psm 6 -c preserve_interword_spaces=1'))))
     fp.write(text)
     print("OCR'd a page...")
 

@@ -1,29 +1,29 @@
 For Date: 01/01/2020 - Wednesday
-Call Number Time Call Reason Action
+Call Number    Time    Call Reason                                 Action
 Duplicate
-20-1 0036 Initiated - MOTOR VEHICLE STOP CITATION - WARNING
-Call Taker: PATROL ANTHONY M DUPRAT
-Location/Address: MAIN ST
-Unit: 34
+20-1           0036    Initiated - MOTOR VEHICLE STOP              CITATION - WARNING
+Call Taker:    PATROL ANTHONY M DUPRAT
+Location/Address:    MAIN ST
+Unit:    34
 Arvd-00:36:31 Clrd-01:12:39
-Vehicle: RED 2015 TOYT HIGHLA Reg: PC MA 7PX321 VIN: 5TDIJKRFH8FS119503
-Operator: AXT-GENNETTE, AMY M @ 69 OLD STATE RD - BERKSHIRE, MA 01224-9539
+Vehicle:    RED 2015 TOYT HIGHLA  Reg: PC MA 7PX321 VIN: 5TDIJKRFH8FS119503
+Operator:    AXT-GENNETTE, AMY M @ 69 OLD STATE RD - BERKSHIRE, MA 01224-9539
 Race: W Sex: F
-Refer To Citation: T2085922
-Owner: GENNETTE, KENNETH THOMAS @ 69 OLD STATE RD - BERKSHIRE, MA 01224-9539
+Refer To Citation:    T2085922
+Owner:    GENNETTE, KENNETH THOMAS @ 69 OLD STATE RD - BERKSHIRE, MA 01224-9539
 Race: U Sex: M
 Narrative:
 Unable to renew license online vehicle parked at the commons
 where operator is employed.
-20-2 0128 Phone ~ B.O.L.0. SERVICES RENDERED
-Call Taker: MICHAEL STRIZZI
-Location/Address: NORTH HOOSAC RD
-Unit: 31
-Disp-01:29:45 Arvd-02:31:40 Clrd-01:37:57
-Unit: 34
+20-2           0128    Phone ~ B.O.L.0.                            SERVICES RENDERED
+Call Taker:    MICHAEL STRIZZI
+Location/Address:    NORTH HOOSAC RD
+Unit:    31
+Disp-01:29:45                 Arvd-02:31:40 Clrd-01:37:57
+Unit:    34
 Disp-01:29:45 Enrt-01:30:45 Arvd-01:31:54 Clrd-01:38:02
-Unit: 37K
-Disp-01:29:45 Clrd-01:30:53
+Unit:    37K
+Disp-01:29:45                                Clrd-01:30:53
 Narrative:
 Erratic opp from North Adams. Maroon vehicle VT plates.
 Traveling west on Mass Ave. Possibly no rear bumper.
@@ -31,12 +31,12 @@ Narrative:
 Followed VT PC HNX623 to Vermont line from Bridges Rd,
 vehicie did have a rear bumper no erratic op or violations
 observed.
-20-3 0201 Phone - B,O.L.0. UNABLE TO LOCATE
-Call Taker: MICHAEL STRIZ&TI
-Location/Address: MAIN ST
-Unit: 31
+20-3           0201    Phone - B,O.L.0.                            UNABLE TO LOCATE
+Call Taker:    MICHAEL STRIZ&TI
+Location/Address:    MAIN ST
+Unit:    31
 Disp-~02:03:32 Enrt-02:03:44 Arvd-02:06:14 Clrd-02:07:33
-Unit: 34
+Unit:    34
 Disp-02:03:32 Enrt-02:03:43 Arvd-02:06:22 Clrd-02:07:49
 Narrative:
 NAPD reports light colored SUV hit a light post in someones
@@ -47,13 +47,13 @@ Narrative:
 Narrative:
 Call back from NA states that the vehicle was white and
 should have rear driver side damage.
-20-4 0204 911 ~- ALARM - BURGLAR ALARM FALSE
-Call Taker: MICHABL STRIZZI
-Location/Address: (WIA 240] COLE AVE
-Unit: 31
-| Disp-02:08:22 Enrt-02:08:45 Arvd-02:10:08 Clrd-02:20:06
+20-4           0204    911 ~- ALARM - BURGLAR                       ALARM FALSE
+Call Taker:    MICHABL STRIZZI
+            Location/Address:    (WIA 240] COLE AVE
+Unit:    31
+|                                 Disp-02:08:22 Enrt-02:08:45 Arvd-02:10:08 Clrd-02:20:06
 |
-Unit: 34
+Unit:    34
 Disp-02:08:30 Enrt-02:08:42 Arvd-02:09:22 Clrd-02:17:59
 Narrative:
 Activated Burglar Alarm
@@ -64,13 +64,13 @@ having trouble with one of the zones.
 Narrative:
 Checked building. Front and rear secure. All appears in
 order, Key holder was on phone with dispatch and satisfied.
-20-6 0253 911 - ASSIST OTHER AGENCY - FIRE SERVICES RENDERED
-Call Taker: MICHAEL STRIZZI1I
-Location/Address: [WIA 1977] LUCE RD
-Unit; 31
-Disp-02:55:21 Arvd-03:00:52 Clrd-03:23:41
-Unit: 34
-Disp-02:55:37 Arvd-03:00:56 Clrd-04:02:32
+20-6           0253    911 - ASSIST OTHER AGENCY - FIRE            SERVICES RENDERED
+Call Taker:    MICHAEL STRIZZI1I
+Location/Address:    [WIA 1977] LUCE RD
+Unit;    31
+Disp-02:55:21                 Arvd-03:00:52 Clrd-03:23:41
+Unit:    34
+Disp-02:55:37                 Arvd-03:00:56 Clrd-04:02:32
 Narrative:
 Active Structure fire. 1 party still inside at this time.
 Narrative:
@@ -79,49 +79,49 @@ aroud 0600 to make sure there are no signs of the fire
 reigniting.
 Narrative:
 House checked.
-Refer To Incident: 20-1-OF
-20-8 0412 Initiated ~- PARKING CHECK SERVICES RENDERED
-Call Taker: PATROL CRAIG A EICHHAMMER
-Location/Address: [WIA 390] SIMONDS RD
-Unit: 31
+Refer To Incident:    20-1-OF
+20-8           0412    Initiated ~- PARKING CHECK                   SERVICES RENDERED
+Call Taker:    PATROL CRAIG A EICHHAMMER
+Location/Address:    [WIA 390] SIMONDS RD
+Unit:    31
 Arvd-04:12:58 Clrd-04:13:13
-20-10 0744 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
-Call Taker: PATROL TANIA HERNANDEZ?
-Location/Address: {WIA 1832] NORTH HOOSAC RD
-Unit: 36
-Arvd-07:45:15 Clrd-07:46:00
+20-10          0744    Initiated - BUILDING CHECK                  BUILDING CHECKED/SECURED
+Call Taker:    PATROL TANIA HERNANDEZ?
+Location/Address:    {WIA 1832] NORTH HOOSAC RD
+Unit:    36
+                                                               Arvd-07:45:15 Clrd-07:46:00
 Narrative:
 checked
 Narrative:
 done
-Narrative:
-done
-Narrative:
-Checked 2337
-| Narrative:
-Checked 0316
-2 420-14 0820 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
-| Call Taker: PATROL TANIA HERNANDEZ
-Location/Address: FRENIER AVE
-Unit: 36
+                   Narrative:
+                              done
+                   Narrative:
+                              Checked 2337
+|                   Narrative:
+                              Checked 0316
+2          420-14          0820    Initiated - BUILDING CHECK                  BUILDING CHECKED/SECURED
+|                   Call Taker:     PATROL TANIA HERNANDEZ
+Location/Address:    FRENIER AVE
+Unit:    36
 Arvd-08:21:06 Clrd-08:21:51
 Narrative:
 checked
 Narrative:
 Checked
-20-12 0822 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
-Call Taker: PATROL TANIA HERNANDEZ
-Location/Address: HARWOOD ST
-Unit: 36
+20-12          0822    Initiated - BUILDING CHECK                  BUILDING CHECKED/SECURED
+Call Taker:    PATROL TANIA HERNANDEZ
+Location/Address:    HARWOOD ST
+Unit:    36
 Arvd-08:22:35 Clrd-08:23:18
 Narrative:
 checked
 Narrative:
 Checked
-20-13 0830 Initiated - BUILDING CHECK BUILDING CHECKED /SECURED
-Call Taker: PATROL TANIA HERNANDEZ
-Location/Address: NORTH ST
-Unit: 36
+20-13          0830    Initiated - BUILDING CHECK                  BUILDING CHECKED /SECURED
+Call Taker:    PATROL TANIA HERNANDEZ
+Location/Address:    NORTH ST
+Unit:    36
 Arvd-08:30:26 Clird-08:31:22
 Narrative:
 checked
@@ -129,23 +129,23 @@ Narrative:
 done
 Narrative:
 Checked 0001
-20-14 0836 Initiated - TRAFFIC CONTROL SERVICES RENDERED
-Call Taker: SERGEANT SCOTT E MCGOWAN
-Location/Address: LONGVIEW TER
-Unit: 30
+20-14          0836    Initiated - TRAFFIC CONTROL                 SERVICES RENDERED
+Call Taker:    SERGEANT SCOTT E MCGOWAN
+Location/Address:    LONGVIEW TER
+Unit:    30
 Arvd-08:36:45 Clrd-08:58:29
 Narrative:
 One MV, speed: 21
 Narrative:
-| checked
-20-15 o801 Tnitiated - BUILDING CHECK BUILDING CHECKED/SECURED
-| Call Taker: SERGEANT SCOTT FE MCGOWAN
-Location/Address: LONGVIEW TER
-| Unit: 30
-Arvd-09:01:54 Clrd-09:02:07
-Narrative:
-checked
-: Narrative:
-Checked
-20-16 0902 Initiated - BUILDING CHECK BULLDING CHECKED/ SECURED
+|                              checked
+          20-15          o801    Tnitiated - BUILDING CHECK                  BUILDING CHECKED/SECURED
+|                  Call Taker:    SERGEANT SCOTT FE MCGOWAN
+            Location/Address:    LONGVIEW TER
+|                                  Unit:      30
+                                                               Arvd-09:01:54 Clrd-09:02:07
+                   Narrative:
+                             checked
+:                   Narrative:
+                              Checked
+20-16          0902    Initiated - BUILDING CHECK                  BULLDING CHECKED/ SECURED
 
