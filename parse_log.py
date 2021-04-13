@@ -33,7 +33,20 @@ for line in file:
 #     out.write(e)
 #     out.write("\n")
 
-df = pd.DataFrame(data=range(len(list_of_entries)),columns=['log'])
+df = pd.DataFrame(data=range(len(list_of_entries)-1),columns=['log']) #intentionally not including top output
+
+def get_EOL_n(e,n):
+    counter = 1
+    prev = 0
+    while counter<10:
+         current_line = e.find("\n",prev)
+         if counter ==n:
+             return current_line
+         else:
+             prev = current_line + 1
+             counter+=1
+    else:
+        raise ValueError('No valid line found.')
 
 def get_log(e):
     space = e.index(" ")
@@ -51,20 +64,47 @@ def get_status(e):
     end_of_line = e.index('\n')
     return e[space2+1:end_of_line]
 
+def get_title(e,title,line):
+    start = e.find(title)
+    incr = len(title)
+    return e[start + incr:get_EOL_n(e,line)]
+    
+def get_arvd(e):
+    start = e.find("Arvd-")
+    incr = len("Arvd-")
+    return e[start + incr:e.index(" ",start)]
+
 logs = []
 times = []
 status = []
+call_taker = []
+location = []
+unit = []
+arvd = []
+clrd = []
 
 for i in range(len(list_of_entries)):
     e = list_of_entries[i]
-    logs.append(get_log(e))
-    times.append(get_time(e))
-    status.append(get_status(e))
+    if (e.find("20-") !=-1 and e.find("20-") < 3 ):
+        logs.append(get_log(e))
+        times.append(get_time(e))
+        status.append(get_status(e))
+        call_taker.append(get_title(e,"Call Taker:",2))
+        location.append(get_title(e,"Location/Address:",3))
+        unit.append(get_title(e,"Unit:",4))
+        arvd.append(get_arvd(e))
+        clrd.append(get_title(e,"Clrd-",5))
+        print(e.find("20-"))
     print(e)
 
 df['log'] = logs
 df['time'] = times
 df['status'] = status
+df['call_taker'] = call_taker
+df['location'] = location
+#df['unit'] = unit
+#df['arvd'] = arvd
+#df['clrd'] = clrd
 print(df)
 
 file.close()
