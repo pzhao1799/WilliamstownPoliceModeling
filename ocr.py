@@ -80,17 +80,26 @@ if __name__ == "__main__":
                         metavar='outfile',
                         type=str,
                         help='the output file')
+    parser.add_argument('mode',
+                        metavar='mode',
+                        type=str,
+                        help='the usage mode')
                         
 
     args = parser.parse_args()
-    print(args)
 
     pngs = os.listdir(args.pngpath)
 
     # Need to convert pdfs to pngs
-    if len(pngs) == 0:
+    if args.mode == "pdf":
         directory_apply_pdf2images(args.pdfpath, args.pngpath)
         pngs = os.listdir(args.pngpath)
 
     # pngs to text
-    directory_apply_ocr(args.pngpath, args.outfile)
+    if args.mode == "ocr":
+        directory_apply_ocr(args.pngpath, args.outfile)
+
+    if args.mode == "both":
+        directory_apply_pdf2images(args.pdfpath, args.pngpath)
+        pngs = os.listdir(args.pngpath)
+        directory_apply_ocr(args.pngpath, args.outfile)
