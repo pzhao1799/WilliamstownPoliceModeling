@@ -36,7 +36,6 @@ def ocr(png_path, fp):
     image_file = image_file.convert('1') # convert image to black and white 
     text = str(((pt.image_to_string(image_file, config='--psm 6 -c preserve_interword_spaces=1'))))
     fp.write(text)
-    print("OCR'd a page...")
 
 def directory_apply_pdf2images(pdf_path, png_path):
     """
@@ -56,9 +55,10 @@ def directory_apply_ocr(png_path, output):
     to each file, if each file is file_type. Appends to output.
     """
     fp = open(output, "w")
-    for entry in os.scandir(png_path):
+    for i, entry in enumerate(os.scandir(png_path)):
         if (entry.path.endswith(".png") and entry.is_file()):
             ocr(entry.path, fp)
+            print("OCR'd page " + str(i) +  "...")
     fp.close()
     print("OCR complete.") 
 
