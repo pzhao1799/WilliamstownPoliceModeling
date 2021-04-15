@@ -1,10 +1,10 @@
 import re
 import pandas as pd
 import numpy as np
-filename = "./high_res/out_file.txt"
+filename = "./2019_low/out.txt"
 
 file = open(filename, "r")
-# out = open("cleaned_out.txt", "w")
+out = open("cleaned_out_2019_low.txt", "w")
 
 def clean(text):
     # text = text.replace("", "")
@@ -29,9 +29,9 @@ for line in file:
         temp = ""
     temp += line
 
-# for e in list_of_entries:
-#     out.write(e)
-#     out.write("\n")
+for e in list_of_entries:
+    out.write(e)
+    out.write("\n")
 
 df = pd.DataFrame(data=range(len(list_of_entries)-1),columns=['log']) #intentionally not including top output
 
@@ -87,29 +87,29 @@ unit = []
 arvd = []
 clrd = []
 
-for i in range(len(list_of_entries)):
-    e = list_of_entries[i]
-    if (e.find("20-") !=-1 and e.find("20-") < 3 ):
-        logs.append(get_log(e))
-        times.append(get_time(e))
-        status.append(get_status(e))
-        call_taker.append(get_title(e,"Call Taker:",2))
-        location.append(get_title(e,"Location/Address:",3))
-        unit.append(get_title(e,"Unit:",4))
-        arvd.append(get_arvd(e))
-        clrd.append(get_title(e,"Clrd-",5))
-        print(e.find("20-"))
-    print(e)
+# for i in range(len(list_of_entries)):
+#     e = list_of_entries[i]
+#     if (e.find("20-") !=-1 and e.find("20-") < 3 ):
+#         logs.append(get_log(e))
+#         times.append(get_time(e))
+#         status.append(get_status(e))
+#         call_taker.append(get_title(e,"Call Taker:",2))
+#         location.append(get_title(e,"Location/Address:",3))
+#         unit.append(get_title(e,"Unit:",4))
+#         arvd.append(get_arvd(e))
+#         clrd.append(get_title(e,"Clrd-",5))
+#         print(e.find("20-"))
+#     print(e)
 
-df['log'] = logs
-df['time'] = times
-df['status'] = status
-df['call_taker'] = call_taker
-df['location'] = location
-#df['unit'] = unit
-#df['arvd'] = arvd
-#df['clrd'] = clrd
-print(df)
+# df['log'] = logs
+# df['time'] = times
+# df['status'] = status
+# df['call_taker'] = call_taker
+# df['location'] = location
+# #df['unit'] = unit
+# #df['arvd'] = arvd
+# #df['clrd'] = clrd
+# print(df)
 
 file.close()
-# out.close()
+out.close()
