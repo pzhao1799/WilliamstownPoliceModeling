@@ -1,17 +1,18 @@
 import re
 import pandas as pd
 import numpy as np
-filename = "./2019_low/out.txt"
+filename = "./2020_low/out.txt"
 
 file = open(filename, "r")
-out = open("cleaned_out_2019_low.txt", "w")
+out = open("cleaned_out_2020_low.txt", "w")
 
 def clean(text):
     # text = text.replace("", "")
-    # text = text.replace("|", "")
+    text = text.replace("|", "")
     text = text.replace(";", ":")
     text = text.replace("~", "-")
     text = text.replace("--", "-")
+    text = re.sub(' +',' ',text)
     try:
         first_i = text.find(next(filter(str.isalnum, text)))
     except StopIteration:
