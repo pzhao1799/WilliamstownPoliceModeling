@@ -1,10 +1,6 @@
 import re
 import pandas as pd
 import numpy as np
-filename = "./2020_low/out.txt"
-
-file = open(filename, "r")
-out = open("cleaned_out_2020_low.txt", "w")
 
 def clean(text):
     # text = text.replace("", "")
@@ -20,22 +16,6 @@ def clean(text):
     
     return text[first_i:]
 
-list_of_entries = []
-temp = ""
-for line in file:
-    line = clean(line)
-    # templine = line.replace(" ", "")
-    if re.match("[0-9]+[-][0-9]+\s", line):
-        list_of_entries.append(temp)
-        temp = ""
-    temp += line
-
-for e in list_of_entries:
-    out.write(e)
-    out.write("\n")
-
-df = pd.DataFrame(data=range(len(list_of_entries)-1),columns=['log']) #intentionally not including top output
-
 def get_EOL_n(e,n):
     counter = 1
     prev = 0
@@ -50,19 +30,19 @@ def get_EOL_n(e,n):
         raise ValueError('No valid line found.')
 
 def get_log(e):
-    space = e.index(" ")
+    space = e.find(" ")
     return e[0:space]
 
 def get_time(e):
-    space1 = e.index(" ")
-    space2 = e.index(" ",space1+1)
+    space1 = e.find(" ")
+    space2 = e.find(" ",space1+1)
     return e[space1+1:space2]
 
 
 def get_status(e):
-    space1 = e.index(" ")
-    space2 = e.index(" ",space1+1)
-    end_of_line = e.index('\n')
+    space1 = e.find(" ")
+    space2 = e.find(" ",space1+1)
+    end_of_line = e.find('\n')
     return e[space2+1:end_of_line]
 
 def get_title(e,title,line):
@@ -77,40 +57,55 @@ def get_arvd(e):
     else:
         return "N/A"
     incr = len("Arvd-")
-    return e[start + incr:e.index(" ",start)]
+    return e[start + incr:e.find(" ",start)]
 
-logs = []
-times = []
-status = []
-call_taker = []
-location = []
-unit = []
-arvd = []
-clrd = []
+########## Run ##########
 
-# for i in range(len(list_of_entries)):
-#     e = list_of_entries[i]
-#     if (e.find("20-") !=-1 and e.find("20-") < 3 ):
-#         logs.append(get_log(e))
-#         times.append(get_time(e))
-#         status.append(get_status(e))
-#         call_taker.append(get_title(e,"Call Taker:",2))
-#         location.append(get_title(e,"Location/Address:",3))
-#         unit.append(get_title(e,"Unit:",4))
-#         arvd.append(get_arvd(e))
-#         clrd.append(get_title(e,"Clrd-",5))
-#         print(e.find("20-"))
-#     print(e)
+#####
+file = open("./2019_low/out.txt", "r", encoding="utf8") # the uncleaned text file we read in
+text_out = open("cleaned_out_2019_low.txt", "w", encoding="utf8") # the cleaned text file (output)
+csv_out = "2019_low.csv" # the location where we'll write a csv file
+#####
 
-# df['log'] = logs
-# df['time'] = times
-# df['status'] = status
-# df['call_taker'] = call_taker
-# df['location'] = location
-# #df['unit'] = unit
-# #df['arvd'] = arvd
-# #df['clrd'] = clrd
-# print(df)
+list_of_entries = []
+temp = ""
+for line in file:
+    line = clean(line)
+    # templine = line.replace(" ", "")
+    if re.match("[0-9]+[-][0-9]+\s", line):
+        list_of_entries.append(temp)
+        temp = ""
+    temp += line
+
+for e in list_of_entries:
+    text_out.write(e)
+    text_out.write("\n")
+
+df = pd.DataFrame(data=range(len(list_of_entries)-1),columns=['log']) #intentionally not including top output
+df_entries = []
+
+for i in range(len(list_of_entries)):
+     e = list_of_entries[i]
+     current = []
+     if "-" in get_log(e):#(e.find("20-") !=-1 and e.find("20-") < 3 ):
+         current.append(get_log(e))
+         current.append(get_time(e))
+         current.append(get_status(e))
+         current.append(get_title(e,"Call Taker:",2))
+         current.append(get_title(e,"Location/Address:",3))
+         current.append(get_title(e,"Unit:",4))
+         current.append(get_arvd(e))
+         current.append(get_title(e,"Clrd-",5))
+         df_entries.append(current)
+     if i % 1000 == 0:
+         print("Added",i,"entries to list.")
+
+print("Converting list to dataframe...")
+df = pd.DataFrame(df_entries,columns=['log','time','status','call_taker','location','unit','arvd','clrd'])
+# The DataFrame is pretty big for displaying the whole thing in IDE, so I shifted to expoting to csv.
+print("Exporting CSV...")
+df.to_csv(csv_out,sep=",")
+print("Done.")
 
 file.close()
-out.close()
+text_out.close()
