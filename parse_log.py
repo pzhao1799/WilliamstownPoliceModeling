@@ -70,7 +70,11 @@ def get_title(e,title,line):
     return e[start + incr:get_EOL_n(e,line)]
     
 def get_arvd(e):
-    start = e.find("Arvd-")
+    search = re.search("A.?r.?v.?d.?.?-",e)
+    if search != None:
+        start = search.start()
+    else:
+        return "N/A"
     incr = len("Arvd-")
     return e[start + incr:e.index(" ",start)]
 
