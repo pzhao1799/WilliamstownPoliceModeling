@@ -1,6 +1,7 @@
 import re
 import pandas as pd
 import numpy as np
+import time
 
 def clean(text):
     # text = text.replace("", "")
@@ -38,74 +39,102 @@ def get_time(e):
     space2 = e.find(" ",space1+1)
     return e[space1+1:space2]
 
-
 def get_status(e):
     space1 = e.find(" ")
     space2 = e.find(" ",space1+1)
     end_of_line = e.find('\n')
     return e[space2+1:end_of_line]
 
-def get_title(e,title,line):
+# old
+def OLD_get_title(e,title,line):
     start = e.find(title)
     incr = len(title)
     return e[start + incr:get_EOL_n(e,line)]
-    
-def get_arvd(e):
-    search = re.search("A.?r.?v.?d.?.?-",e)
-    if search != None:
-        start = search.start()
-    else:
+
+# TODO: Implement find_levenshtein function for finding strings within a certain Lev distance of a string. Should be usable given short length of entries, and incorporate into get_title
+
+# Searches for text between a title and an ending token (endline character by default, and special option of None returns the whole rest of the source string starting at the title). Has verbose option that prints parameters and return value to console.
+def get_title(e,title,end_token="\n",verbose=False):
+    search = re.search(title,e)
+    # If we can't find the string, return "N/A".
+    if search == None:
+        if verbose:
+            print("Failed to find text between string " + repr(title) + " and string " + repr(end_token) + ".")
         return "N/A"
-    incr = len("Arvd-")
-    return e[start + incr:e.find(" ",start)]
+    start = search.start()
+    end = search.end()
+    incr = end - start
+    # Using special option None for end_token returns the whole rest of the string.
+    if end_token == None:
+        if verbose:
+            print("Failed to find text between string " + repr(title) + " and string " + repr(end_token) + ".")
+        return e[end:]
+    search_end_token = re.search(end_token,e[end:])
+    # If we can't find the ending token, return "N/A".
+    if search_end_token == None:
+        if verbose:
+            print("Failed to find text between string " + repr(title) + " and string " + repr(end_token) + ".")
+        return "N/A"
+    if verbose:
+        print("Found text between string " + repr(title) + " and string " + repr(end_token) + ": " + repr(e[end : search_end_token.start() + end]))
+    # Return the substring between the end of the title and the beginning of the end token.
+    return e[end : search_end_token.start() + end]
 
 ########## Run ##########
 
-#####
+time_1 = time.time()
+
+##### Filenames #####
 file = open("./2019_low/out.txt", "r", encoding="utf8") # the uncleaned text file we read in
 text_out = open("cleaned_out_2019_low.txt", "w", encoding="utf8") # the cleaned text file (output)
-csv_out = "2019_low.csv" # the location where we'll write a csv file
-#####
+#####################
 
+# Turn source text file into list of entries.
 list_of_entries = []
 temp = ""
 for line in file:
     line = clean(line)
-    # templine = line.replace(" ", "")
     if re.match("[0-9]+[-][0-9]+\s", line):
         list_of_entries.append(temp)
         temp = ""
     temp += line
 
+# Write cleaned list of entries to new text file.
 for e in list_of_entries:
     text_out.write(e)
     text_out.write("\n")
 
+# Initialize database.
 df = pd.DataFrame(data=range(len(list_of_entries)-1),columns=['log']) #intentionally not including top output
 df_entries = []
+df_columns = ['log','time','status','call_taker','location','unit','arvd','clrd','narrative']
 
+# Add entries to database.
 for i in range(len(list_of_entries)):
      e = list_of_entries[i]
      current = []
-     if "-" in get_log(e):#(e.find("20-") !=-1 and e.find("20-") < 3 ):
+     if "-" in get_log(e):
          current.append(get_log(e))
          current.append(get_time(e))
          current.append(get_status(e))
-         current.append(get_title(e,"Call Taker:",2))
-         current.append(get_title(e,"Location/Address:",3))
-         current.append(get_title(e,"Unit:",4))
-         current.append(get_arvd(e))
-         current.append(get_title(e,"Clrd-",5))
+         current.append(get_title(e,"Call Taker: "))
+         current.append(get_title(e,"Location/Address: "))
+         current.append(get_title(e,"Unit: "))
+         current.append(get_title(e,"A.?r.?v.?d.?.?-"," C.?l.?r.?d.?.?-"))
+         current.append(get_title(e,"C.?l.?r.?d.?.?-"))
+         current.append(get_title(e,"Narrative:\n",None))
          df_entries.append(current)
-     if i % 1000 == 0:
-         print("Added",i,"entries to list.")
-
-print("Converting list to dataframe...")
-df = pd.DataFrame(df_entries,columns=['log','time','status','call_taker','location','unit','arvd','clrd'])
-# The DataFrame is pretty big for displaying the whole thing in IDE, so I shifted to expoting to csv.
-print("Exporting CSV...")
-df.to_csv(csv_out,sep=",")
-print("Done.")
+print("Added",i,"entries to list.")
 
 file.close()
 text_out.close()
+
+# Export database to csv for easy viewing/interaction. This is the point where we'll move to the next step in the data pipeline.
+csv_out = "2019_low.csv" # the location where we'll write a csv file
+print("Converting list to dataframe...")
+df = pd.DataFrame(df_entries,columns=df_columns)
+print("Exporting CSV...")
+df.to_csv(csv_out,sep=",")
+
+time_2 = time.time()
+print("Done: " + str(time_2 - time_1) + " seconds.")
