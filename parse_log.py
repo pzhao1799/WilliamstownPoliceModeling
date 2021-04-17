@@ -2,6 +2,7 @@ import re
 import pandas as pd
 import numpy as np
 import time
+from sys import argv
 
 def clean(text):
     # text = text.replace("", "")
@@ -83,16 +84,17 @@ def get_title(e,title,end_token="\n",verbose=False):
 ########## Run ##########
 
 time_1 = time.time()
+in_filename = argv[1]
+out_filename = argv[2]
 
-##### Filenames #####
-file = open("./2019_low/out.txt", "r", encoding="utf8") # the uncleaned text file we read in
-text_out = open("cleaned_out_2019_low.txt", "w", encoding="utf8") # the cleaned text file (output)
-#####################
+# Open read and write files
+in_file = open(in_filename, "r", encoding="utf8") # the uncleaned text file we read in
+text_out = open(out_filename, "w", encoding="utf8") # the cleaned text file (output)
 
 # Turn source text file into list of entries.
 list_of_entries = []
 temp = ""
-for line in file:
+for line in in_file:
     line = clean(line)
     if re.match("[0-9]+[-][0-9]+\s", line):
         list_of_entries.append(temp)
@@ -126,7 +128,7 @@ for i in range(len(list_of_entries)):
          df_entries.append(current)
 print("Added",i,"entries to list.")
 
-file.close()
+in_file.close()
 text_out.close()
 
 # Export database to csv for easy viewing/interaction. This is the point where we'll move to the next step in the data pipeline.
