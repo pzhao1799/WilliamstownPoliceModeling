@@ -56,7 +56,12 @@ py ./ocr.py pdf-path png-path outfile mode
 ### Text Cleanup and Parsing:
 
 ```
-$ py ./parse_log.py
+$ py ./parse_log.py infile outfile
 ```
 
-TODO: parse_log.py currently has a global variable with the text file to parse and clean. It should be changed to take in a command line argument with the text file we want to edit.
+- `infile` is the path to the file containing the raw OCR output.
+
+- `outfile` is the name of the file that will contain the cleaned text.
+
+- The program currently always writes to a csv called `2019_low.csv`. This functionality will later be removed or changed.
+
