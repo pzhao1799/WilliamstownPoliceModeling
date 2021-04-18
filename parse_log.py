@@ -55,9 +55,21 @@ def OLD_get_title(e,title,line):
 # TODO: Implement find_levenshtein function for finding strings within a certain Lev distance of a string. Should be usable given short length of entries, and incorporate into get_title
 
 # Searches for text between a title and an ending token (endline character by default, and special option of None returns the whole rest of the source string starting at the title). Has verbose option that prints parameters and return value to console.
-def get_title(e,title,end_token="\n",verbose=False):
+def get_title(e,title,end_token="\n",iter = False,verbose=False):
     search = re.search(title,e)
     # If we can't find the string, return "N/A".
+    if iter ==True: #used for multiple iterations such as clrd,arvd. 
+        string = ""
+        for m in re.finditer(title, e):
+            end = m.end()
+            search_end_token = re.search(end_token,e[end:])
+            print(e[end : search_end_token.start() + end])
+            if search_end_token ==None:
+                string = string + ";N/A"
+            else:
+                string = string + ";" + e[end : search_end_token.start() + end]
+        return string[1:] #remove first ; to make formatting consistant
+
     if search == None:
         if verbose:
             print("Failed to find text between string " + repr(title) + " and string " + repr(end_token) + ".")
@@ -111,7 +123,7 @@ for e in list_of_entries:
 # Initialize database.
 df = pd.DataFrame(data=range(len(list_of_entries)-1),columns=['log']) #intentionally not including top output
 df_entries = []
-df_columns = ['log','time','status','call_taker','location','unit','arvd','clrd','narrative','vehicle', 'citation', 'operator', 'owner']
+df_columns = ['log','time','status','call_taker','location','unit', 'disp', 'enrt','arvd','clrd','narrative','vehicle', 'citation', 'operator', 'owner']
 
 # Add entries to database.
 for i in range(len(list_of_entries)):
@@ -123,9 +135,13 @@ for i in range(len(list_of_entries)):
          current.append(get_status(e))
          current.append(get_title(e,"Call Taker: "))
          current.append(get_title(e,"Location/Address: "))
-         current.append(get_title(e,"Unit: "))
-         current.append(get_title(e,"A.?r.?v.?d.?.?-"," C.?l.?r.?d.?.?-"))
-         current.append(get_title(e,"C.?l.?r.?d.?.?-"))
+         current.append(get_title(e,"Unit: ", iter=True))
+         #current.append(get_title(e,"A.?r.?v.?d.?.?-"," C.?l.?r.?d.?.?-")) #was breaking with multiple iterations
+         #current.append(get_title(e,"C.?l.?r.?d.?.?-"))
+         current.append(get_title(e,"Disp-", " ", iter=True))
+         current.append(get_title(e,"Enrt-", " ", iter=True))
+         current.append(get_title(e,"Arvd-", " ", iter=True))
+         current.append(get_title(e,"Clrd-", iter=True))
          current.append(get_title(e,"Narrative:\n",None))
          current.append(get_title(e,"Vehicle: "))
          current.append(get_title(e,"Refer To Citation: "))
