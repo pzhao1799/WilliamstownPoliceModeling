@@ -69,7 +69,7 @@ def get_title(e,title,end_token="\n",verbose=False):
     if end_token == None:
         if verbose:
             print("Failed to find text between string " + repr(title) + " and string " + repr(end_token) + ".")
-        return e[end:]
+        return e[end:].replace("Narrative:", ";") #strips off for extra additions
     search_end_token = re.search(end_token,e[end:])
     # If we can't find the ending token, return "N/A".
     if search_end_token == None:
@@ -78,6 +78,8 @@ def get_title(e,title,end_token="\n",verbose=False):
         return "N/A"
     if verbose:
         print("Found text between string " + repr(title) + " and string " + repr(end_token) + ": " + repr(e[end : search_end_token.start() + end]))
+    if end_token == "Sex:":
+        return e[end : search_end_token.start() + end + 6] #janky way of accounting for extra line
     # Return the substring between the end of the title and the beginning of the end token.
     return e[end : search_end_token.start() + end]
 
@@ -109,7 +111,7 @@ for e in list_of_entries:
 # Initialize database.
 df = pd.DataFrame(data=range(len(list_of_entries)-1),columns=['log']) #intentionally not including top output
 df_entries = []
-df_columns = ['log','time','status','call_taker','location','unit','arvd','clrd','narrative']
+df_columns = ['log','time','status','call_taker','location','unit','arvd','clrd','narrative','vehicle', 'citation', 'operator', 'owner']
 
 # Add entries to database.
 for i in range(len(list_of_entries)):
@@ -125,6 +127,10 @@ for i in range(len(list_of_entries)):
          current.append(get_title(e,"A.?r.?v.?d.?.?-"," C.?l.?r.?d.?.?-"))
          current.append(get_title(e,"C.?l.?r.?d.?.?-"))
          current.append(get_title(e,"Narrative:\n",None))
+         current.append(get_title(e,"Vehicle: "))
+         current.append(get_title(e,"Refer To Citation: "))
+         current.append(get_title(e,"Operator: ", "Sex:"))
+         current.append(get_title(e,"Owner: ", "Sex:"))
          df_entries.append(current)
 print("Added",i,"entries to list.")
 
