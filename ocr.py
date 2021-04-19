@@ -65,7 +65,7 @@ def directory_apply_ocr(png_path, output):
 
 if __name__ == "__main__":
     # Create the parser
-    parser = argparse.ArgumentParser(description='List the content of a folder')
+    parser = argparse.ArgumentParser(description='OCR')
 
     # Add the arguments
     parser.add_argument('pdfpath',

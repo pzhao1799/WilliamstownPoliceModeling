@@ -2,7 +2,8 @@ import re
 import pandas as pd
 import numpy as np
 import time
-from sys import argv
+import sys
+import argparse
 
 def clean(text):
     # text = text.replace("", "")
@@ -97,13 +98,28 @@ def get_title(e,title,end_token="\n",iter = False,verbose=False):
 
 ########## Run ##########
 
+# Create the parser
+parser = argparse.ArgumentParser(description='OCR')
+
+# Add the arguments
+parser.add_argument('input',
+                    metavar='input',
+                    type=str,
+                    help='the path to input')
+parser.add_argument('output',
+                    metavar='output',
+                    type=str,
+                    help='the path to out')
+
+args = parser.parse_args()
+
 time_1 = time.time()
-in_filename = argv[1]
-out_filename = argv[2]
+in_filename = args.input
+out_filename = args.output
 
 # Open read and write files
 in_file = open(in_filename, "r", encoding="utf8") # the uncleaned text file we read in
-text_out = open(out_filename, "w", encoding="utf8") # the cleaned text file (output)
+# text_out = open(out_filename, "w", encoding="utf8") # the cleaned text file (output)
 
 # Turn source text file into list of entries.
 list_of_entries = []
@@ -115,10 +131,10 @@ for line in in_file:
         temp = ""
     temp += line
 
-# Write cleaned list of entries to new text file.
-for e in list_of_entries:
-    text_out.write(e)
-    text_out.write("\n")
+# # Write cleaned list of entries to new text file.
+# for e in list_of_entries:
+#     text_out.write(e)
+#     text_out.write("\n")
 
 # Initialize database.
 df = pd.DataFrame(data=range(len(list_of_entries)-1),columns=['log']) #intentionally not including top output
@@ -151,10 +167,10 @@ for i in range(len(list_of_entries)):
 print("Added",i,"entries to list.")
 
 in_file.close()
-text_out.close()
+# text_out.close()
 
 # Export database to csv for easy viewing/interaction. This is the point where we'll move to the next step in the data pipeline.
-csv_out = "2019_low.csv" # the location where we'll write a csv file
+csv_out = out_filename # the location where we'll write a csv file
 print("Converting list to dataframe...")
 df = pd.DataFrame(df_entries,columns=df_columns)
 print("Exporting CSV...")
