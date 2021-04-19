@@ -12,6 +12,9 @@ Authors: Peter Zhao, Andrew Thai, Spencer Brooks, Joshua Hewson, Porter Johnson
 - PILLOW
 - pandas
 - numpy
+- fuzzywuzzy
+- python-Levenshtein
+- sqlalchemy
 
 ```
 $ pip install pdf2image
@@ -19,6 +22,9 @@ $ pip install pytesseract
 $ pip install Pillow
 $ pip install pandas
 $ pip install numpy
+$ pip install fuzzywuzzy
+$ pip install python-Levenshtein
+$ pip install sqlalchemy
 ```
 
 Ubuntu (Linux) Only:
