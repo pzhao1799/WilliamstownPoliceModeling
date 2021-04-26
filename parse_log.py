@@ -4,6 +4,7 @@ import numpy as np
 import time
 import sys
 import argparse
+from interactive_map import geolocate,make_map
 
 def clean(text):
     # text = text.replace("", "")
@@ -64,7 +65,7 @@ def get_title(e,title,end_token="\n",iter = False,verbose=False):
         for m in re.finditer(title, e):
             end = m.end()
             search_end_token = re.search(end_token,e[end:])
-            print(e[end : search_end_token.start() + end])
+            #print(e[end : search_end_token.start() + end])
             if search_end_token ==None:
                 string = string + ";N/A"
             else:
@@ -175,6 +176,13 @@ print("Converting list to dataframe...")
 df = pd.DataFrame(df_entries,columns=df_columns)
 print("Exporting CSV...")
 df.to_csv(csv_out,sep=",")
+
+#make map
+#this addition is needed to closer specify locations
+#df["location"] = df["location"] + ", Williamstown, 01267"
+#print("Making map...")
+#make_map(df)
+
 
 time_2 = time.time()
 print("Done: " + str(time_2 - time_1) + " seconds.")

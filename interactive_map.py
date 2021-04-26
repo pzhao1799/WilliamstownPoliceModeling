@@ -7,7 +7,7 @@ from geopy.geocoders import Nominatim
 #helper function to turn addresses into coordinates
 def geolocate(v,geo): 
     if v =="N/A":
-        return
+        return None
     bracketindex = v.find("]")
     if bracketindex > 3:
         return geo.geocode(v[bracketindex+1:])
@@ -19,7 +19,6 @@ def make_map(df):
     df['loc'] = df['location'].apply(geolocate, args = (geolocator,))
     df["point"]= df['loc'].apply(lambda loc: tuple(loc.point) if loc else None)
     df[['lat', 'lon', 'altitude']] = pd.DataFrame(df['point'].to_list(), index=df.index)
-    print(df)
 
     # center to the mean of all points
     m = folium.Map(location=df[["lat", "lon"]].mean().to_list(), zoom_start=2)
@@ -30,7 +29,7 @@ def make_map(df):
     # draw the markers and assign popup and hover texts
     # add the markers the the cluster layers so that they are automatically clustered
     for i,r in df.iterrows():
-        if r["location"] != "N/A":
+        if r["location"] != "N/A" and np.isnan(r["lat"]) != True:
             location = (r["lat"], r["lon"])
             folium.Marker(location=location,
                         popup = r['log'],
@@ -45,7 +44,6 @@ def make_map(df):
     m.save("interactive_map.html")
 
 #example program call
-d = {'log': ["20-1", "20-12", "20-13"], 'location': [" [645] HOLLY LN, Massachusetts, 01267", "HARWOOD ST, Massachusetts, 01267", "N/A"]}
-df = pd.DataFrame(data=d)
-make_map(df)
-print("hi [bob]")
+#d = {'log': ["20-1", "20-12", "20-13"], 'location': ["HARWOOD ST, Massachusetts, 01267", "SOUTHHWORTH ST, Massachusetts, 01267", "N/A"]}
+#df = pd.DataFrame(data=d)
+#make_map(df)
