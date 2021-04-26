@@ -4,11 +4,13 @@ import folium
 from folium.plugins import MarkerCluster
 from geopy.geocoders import Nominatim
 
-def geolocate(v,geo):
+#helper function to turn addresses into coordinates
+def geolocate(v,geo): 
     if v =="N/A":
         return
     return geo.geocode(v)
 
+#reads in a dataframe, finds coordinates, and makes an interactive .html map
 def make_map(df):
     geolocator = Nominatim(user_agent="sample app")
     df['loc'] = df['location'].apply(geolocate, args = (geolocator,))
@@ -39,6 +41,7 @@ def make_map(df):
     # dave to a file
     m.save("interactive_map.html")
 
-d = {'log': ["20-1", "20-12", "20-13"], 'location': ["MAIN ST, Massachusetts, 01267", "HARWOOD ST, Massachusetts, 01267", "N/A"]}
-df = pd.DataFrame(data=d)
-make_map(df)
+#example program call
+#d = {'log': ["20-1", "20-12", "20-13"], 'location': ["MAIN ST, Massachusetts, 01267", "HARWOOD ST, Massachusetts, 01267", "N/A"]}
+#df = pd.DataFrame(data=d)
+#make_map(df)
