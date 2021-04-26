@@ -8,6 +8,9 @@ from geopy.geocoders import Nominatim
 def geolocate(v,geo): 
     if v =="N/A":
         return
+    bracketindex = v.find("]")
+    if bracketindex > 3:
+        return geo.geocode(v[bracketindex+1:])
     return geo.geocode(v)
 
 #reads in a dataframe, finds coordinates, and makes an interactive .html map
@@ -42,6 +45,7 @@ def make_map(df):
     m.save("interactive_map.html")
 
 #example program call
-#d = {'log': ["20-1", "20-12", "20-13"], 'location': ["MAIN ST, Massachusetts, 01267", "HARWOOD ST, Massachusetts, 01267", "N/A"]}
-#df = pd.DataFrame(data=d)
-#make_map(df)
+d = {'log': ["20-1", "20-12", "20-13"], 'location': [" [645] HOLLY LN, Massachusetts, 01267", "HARWOOD ST, Massachusetts, 01267", "N/A"]}
+df = pd.DataFrame(data=d)
+make_map(df)
+print("hi [bob]")
