@@ -25,6 +25,8 @@ $ pip install numpy
 $ pip install fuzzywuzzy
 $ pip install python-Levenshtein
 $ pip install sqlalchemy
+$ pip install folium
+$ pip install geopy
 ```
 
 Ubuntu (Linux) Only:
