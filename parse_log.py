@@ -140,14 +140,22 @@ for line in in_file:
 # Initialize database.
 df = pd.DataFrame(data=range(len(list_of_entries)-1),columns=['log']) #intentionally not including top output
 df_entries = []
-df_columns = ['log','time','status','call_taker','location','unit', 'disp', 'enrt','arvd','clrd','narrative','vehicle', 'citation', 'operator', 'owner']
+df_columns = ['log','date','time','status','call_taker','location','unit', 'disp', 'enrt','arvd','clrd','narrative','vehicle', 'citation', 'operator', 'owner']
+
+current_date = 'N/A'
 
 # Add entries to database.
 for i in range(len(list_of_entries)):
      e = list_of_entries[i]
+     print(e)
+     # date modification
+     if "For Date:" in e:
+         current_date = get_title(e,"For Date: ")
+     # otherwise, a regular entry
      current = []
      if "-" in get_log(e):
          current.append(get_log(e))
+         current.append(current_date)
          current.append(get_time(e))
          current.append(get_status(e))
          current.append(get_title(e,"Call Taker: "))
