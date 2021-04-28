@@ -56,7 +56,7 @@ def make_map(df):
                 col = "pink"
 
             elif ("fire" in r["status"].lower()):
-                picture = "info-sign"
+                picture = "fire"
                 col = "red"
 
             elif ("death" in r["status"].lower()):

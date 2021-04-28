@@ -184,15 +184,15 @@ print("Converting list to dataframe...")
 df = pd.DataFrame(df_entries,columns=df_columns)
 
 #gets coordinates from geolocating
-#print("Geolocating...")
-#df = get_coords(df)
+print("Geolocating...")
+df = get_coords(df)
 
 print("Exporting CSV...")
 df.to_csv(csv_out,sep=",")
 
 #make map
-#print("Making map...")
-#make_map(df)
+print("Making map...")
+make_map(df)
 
 
 time_2 = time.time()
