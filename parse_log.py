@@ -4,7 +4,7 @@ import numpy as np
 import time
 import sys
 import argparse
-from interactive_map import geolocate,make_map
+from interactive_map import geolocate,make_map,get_coords,add_state_zip
 
 def clean(text):
     # text = text.replace("", "")
@@ -132,13 +132,13 @@ for line in in_file:
         temp = ""
     temp += line
 
-# # Write cleaned list of entries to new text file.
+ # Write cleaned list of entries to new text file.
 # for e in list_of_entries:
-#     text_out.write(e)
-#     text_out.write("\n")
+    # text_out.write(e)
+    # text_out.write("\n")
 
 # Initialize database.
-df = pd.DataFrame(data=range(len(list_of_entries)-1),columns=['log']) #intentionally not including top output
+df = pd.DataFrame(data=range(len(list_of_entries)-1),columns=['log']) #avoids conformatability error
 df_entries = []
 df_columns = ['log','date','time','status','call_taker','location','unit', 'disp', 'enrt','arvd','clrd','narrative','vehicle', 'citation', 'operator', 'owner']
 
@@ -182,12 +182,15 @@ in_file.close()
 csv_out = out_filename # the location where we'll write a csv file
 print("Converting list to dataframe...")
 df = pd.DataFrame(df_entries,columns=df_columns)
+
+#gets coordinates from geolocating
+#print("Geolocating...")
+#df = get_coords(df)
+
 print("Exporting CSV...")
 df.to_csv(csv_out,sep=",")
 
 #make map
-#this addition is needed to closer specify locations
-#df["location"] = df["location"] + ", Williamstown, 01267"
 #print("Making map...")
 #make_map(df)
 
