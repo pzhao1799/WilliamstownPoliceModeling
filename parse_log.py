@@ -127,6 +127,9 @@ list_of_entries = []
 temp = ""
 for line in in_file:
     line = clean(line)
+    if "For Date" in line:
+        list_of_entries.append(temp)
+        temp = ""
     if re.match("[0-9]+[-][0-9]+\s", line):
         list_of_entries.append(temp)
         temp = ""
