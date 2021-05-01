@@ -43,7 +43,8 @@ def directory_apply_pdf2images(pdf_path, png_path):
     to each file, if each file is file_type.
     """
     offset = 1
-    for entry in os.scandir(pdf_path):
+    dir_entries = sorted(os.listdir(args.pdfpath), key = lambda x: int(x[x.index("-")+1:x.index("_")]))
+    for entry in dir_entries:
         if (entry.path.endswith(".pdf") and entry.is_file()):
             print("!: " + entry.path)
             offset = pdf_to_images(entry.path, png_path, offset)
@@ -55,7 +56,8 @@ def directory_apply_ocr(png_path, output):
     to each file, if each file is file_type. Appends to output.
     """
     fp = open(output, "w")
-    for i, entry in enumerate(os.scandir(png_path)):
+    dir_entries = sorted(os.listdir(png_path), key = lambda x: int(x[5:x.index(".")]))
+    for i, entry in enumerate(dir_entries):
         if (entry.path.endswith(".png") and entry.is_file()):
             ocr(entry.path, fp)
             print("OCR'd page " + str(i) +  "...")
@@ -89,6 +91,12 @@ if __name__ == "__main__":
     args = parser.parse_args()
 
     pngs = os.listdir(args.pngpath)
+
+    if args.mode == "test":
+        print(list(map(lambda x: int(x[3:x.index("_")]), os.listdir(args.pdfpath))))
+        sl = sorted(os.listdir(args.pdfpath), key = lambda x: int(x[x.index("-")+1:x.index("_")]))
+        for e in sl:
+            print(e)
 
     # Need to convert pdfs to pngs
     if args.mode == "pdf":
