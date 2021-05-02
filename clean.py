@@ -8,7 +8,7 @@ Created on Tue Apr 13 12:22:42 2021
 import numpy as np
 from PIL import Image
 
-class clean:
+class Cleaner:
     
     def clean_redacted(array):
         for x in range(int(array.shape[0]/10)):
@@ -28,7 +28,7 @@ class clean:
                 cursor = imarray[loc[0]:(loc[0]+cursor_shape[0]),loc[1]:(loc[1]+cursor_shape[1])]
                 if len(cursor[cursor<10]) >= 0.9 * 3 * len(cursor) * len(cursor[0]):
                     # print('redaction found at ' + str(loc))
-                    clean.remove_redaction(imarray,loc)
+                    Cleaner.remove_redaction(imarray,loc)
         return imarray
     
     def remove_redaction(imarray, loc):
@@ -75,10 +75,17 @@ class clean:
         
         
         
-        
-        
-file = Image.open('high_res/images/page_1.png')
-imarray = np.array(file)
-clean_array = clean.find_redactions(imarray)
-file = Image.fromarray(clean_array)
-file.show()
+# file = Image.open('high_res/images/page_1.png')
+# imarray = np.array(file)
+# clean_array = clean.find_redactions(imarray)
+# file = Image.fromarray(clean_array)
+# file.show()
+
+def redact(png_path):
+    file = Image.open(png_path)
+    imarray = np.array(file)
+    clean_array = Cleaner.find_redactions(imarray)
+    file = Image.fromarray(clean_array)
+    file.save(png_path, 'PNG')
+
+redact("clean_test/page_9.png")
