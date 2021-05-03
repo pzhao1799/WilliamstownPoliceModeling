@@ -35,7 +35,7 @@ class Cleaner:
         cursor_shape = (20,2)
         # find left edge
         more_to_find = True
-        while more_to_find:
+        while more_to_find and loc[1] >  0:
             line_of_pixels = imarray[loc[0]-1,loc[1]:loc[1]+cursor_shape[1]]
             if len(line_of_pixels[line_of_pixels < 10]) >= 0.5 * 3 * len(line_of_pixels):
                 loc = (loc[0]-1,loc[1])
@@ -43,7 +43,7 @@ class Cleaner:
                 more_to_find = False
         more_to_find = True
         # find top edge
-        while more_to_find:
+        while more_to_find and loc[0] > 0:
             line_of_pixels = imarray[loc[0]:loc[0]+cursor_shape[0],loc[1]-1]
             if len(line_of_pixels[line_of_pixels < 10]) >= 0.5 * 3 * len(line_of_pixels):
                 loc = (loc[0],loc[1]-1)
@@ -51,7 +51,7 @@ class Cleaner:
                 more_to_find = False
         # find right edge
         more_to_find = True
-        while more_to_find:
+        while more_to_find and loc[1] + cursor_shape[1] < len(imarray[1]):
             line_of_pixels = imarray[loc[0]:loc[0]+cursor_shape[0],loc[1]+cursor_shape[1]+1]
             if len(line_of_pixels[line_of_pixels < 10]) >= 0.5 * 3 * len(line_of_pixels):
                 cursor_shape = (cursor_shape[0],cursor_shape[1]+1)
@@ -60,7 +60,7 @@ class Cleaner:
                 more_to_find = False
         # find bottom edge
         more_to_find = True
-        while more_to_find:
+        while more_to_find and loc[0] + cursor_shape[0] < len(imarray[0]):
             line_of_pixels = imarray[loc[0]+cursor_shape[0]+1,loc[1]:loc[1]+cursor_shape[1]]
             if len(line_of_pixels[line_of_pixels < 10]) >= 0.1 * 3 * len(line_of_pixels):
                 cursor_shape = (cursor_shape[0]+1,cursor_shape[1])
