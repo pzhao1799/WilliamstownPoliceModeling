@@ -44,7 +44,7 @@ Todo: Need an easier way to install poppler for Windows.
 
 ## How to Run
 
-### OCR:
+### OCR (ocr.py):
 
 ```
 py ./ocr.py pdf-path png-path outfile mode
@@ -58,10 +58,11 @@ py ./ocr.py pdf-path png-path outfile mode
 
 - `mode` is the type of conversion to be done.
     - `"pdf"` will only convert the pdfs to pngs.
+    - `"redact"` will only clean redaction marks on the pngs and output pngs.
     - `"ocr"` will only convert the pngs to text.
     - `"both"` will do the full conversion from pdfs to text.
 
-### Text Cleanup and Parsing:
+### Text Cleanup and Parsing (parse_log.py):
 
 ```
 $ py ./parse_log.py infile outfile
