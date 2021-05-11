@@ -20,6 +20,7 @@ args = parser.parse_args()
 df = pandas.read_csv(args.csv)
 
 
+# A REPL for fuzzy searching the csv data
 while True:
     column = input("Column name to search: ").lower()
     searchterm = input("Search string: ").lower()
