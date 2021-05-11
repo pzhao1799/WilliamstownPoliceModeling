@@ -66,13 +66,30 @@ class Cleaner:
                 cursor_shape = (cursor_shape[0]+1,cursor_shape[1])
             else:
                 more_to_find = False
-        
         #cursor now position at top left of redaction and shaped to match the redaction
         #now we just need to turn everything in the cursor white (or into a desired character)
+        #Cleaner.print_symbols(imarray, loc, cursor_shape, '+')
         imarray[loc[0]:loc[0]+cursor_shape[0],loc[1]:loc[1]+cursor_shape[1]] = np.ones((cursor_shape[0],cursor_shape[1],3))*255
         
                 
-        
+    def print_symbols(imarray, loc, cursor_shape, char):
+        font = cursor_shape[0]
+        spaces = int(cursor_shape[1]/font)
+        if char=='+':
+            plus = Cleaner.plus(cursor_shape)
+            for i in range(spaces):
+                #imarray[loc[0]:loc[0]+cursor_shape[0],loc[1]+i*cursor_shape[0]:loc[1]+(i+1)*cursor_shape[0]] = Cleaner.plus((cursor_shape[0],cursor_shape[0]))
+                imarray[loc[0]:loc[0]+cursor_shape[0],loc[1]+i*cursor_shape[0]:loc[1]+(i+1)*cursor_shape[0]] = plus
+                
+    def plus(shape): 
+        line = 5 #lines are set to 5 pixels wide  
+        array = np.zeros((shape[0],shape[1],3))
+        w_square_shape = (int(shape[0]/2-line/2),int(shape[1]/2-line/2))
+        array[0:w_square_shape[0],0:w_square_shape[1]] = np.ones((w_square_shape[0],w_square_shape[1],3))*255
+        array[0:w_square_shape[0],shape[1]-w_square_shape[1]:shape[1]] = np.ones((w_square_shape[0],w_square_shape[1],3))*255
+        array[shape[0]-w_square_shape[0]:shape[0],0:w_square_shape[1]] = np.ones((w_square_shape[0],w_square_shape[1],3))*255
+        array[shape[0]-w_square_shape[0]:shape[0],shape[1]-w_square_shape[1]:shape[1]] = np.ones((w_square_shape[0],w_square_shape[1],3))*255
+        return array     
         
         
 # file = Image.open('high_res/images/page_1.png')
