@@ -62,10 +62,7 @@ def directory_apply_pdf2images(pdf_path, png_path, sort):
     to each file, if each file is file_type.
     """
     offset = 1
-    if sort:
-        dir_entries = sort_directory(pdf_path, lambda x: int(x.path[x.path.rindex("-")+1:x.path.index(".")]))
-    else:
-        dir_entries = os.listdir(pdf_path)
+    dir_entries = dir_entries = sort_directory(pdf_path, lambda x: int(x.path[x.path.rindex("-")+1:x.path.index(".")])) if sort else os.scandir(pdf_path)
     for entry in dir_entries:
         if (entry.path.endswith(".pdf") and entry.is_file()):
             print("!: " + entry.path)
@@ -85,10 +82,7 @@ def directory_apply_ocr(png_path, output, sort):
     to each file, if each file is file_type. Appends to output.
     """
     fp = open(output, "w")
-    if sort:
-        dir_entries = sorted(os.scandir(png_path), key = lambda x: int(x.path[x.path.rindex("/") + 6:x.path.index(".")]))
-    else:
-        dir_entires = os.listdir(png_path)
+    dir_entries = dir_entries = sorted(os.scandir(png_path), key = lambda x: int(x.path[x.path.rindex("/") + 6:x.path.index(".")])) if sort else os.scandir(png_path)
     for i, entry in enumerate(dir_entries):
         if (entry.path.endswith(".png") and entry.is_file()):
             ocr(entry.path, fp)
@@ -153,6 +147,6 @@ if __name__ == "__main__":
         directory_apply_ocr(args.pngpath, args.outfile, args.sort)
 
     if args.mode == "all":
-        directory_apply_pdf2images(args.pdfpath, args.pngpath)
+        directory_apply_pdf2images(args.pdfpath, args.pngpath, args.sort)
         pngs = os.listdir(args.pngpath)
-        directory_apply_ocr(args.pngpath, args.outfile)
+        directory_apply_ocr(args.pngpath, args.outfile, args.sort)
