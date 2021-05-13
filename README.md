@@ -74,3 +74,5 @@ $ py ./parse_log.py infile outfile
 
 - The program currently always writes to a csv called `2019_low.csv`. This functionality will later be removed or changed.
 
+## Next Steps
+- https://policescorecard.org/
