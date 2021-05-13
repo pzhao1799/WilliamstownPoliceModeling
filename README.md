@@ -60,7 +60,7 @@ py ./ocr.py pdf-path png-path outfile mode
     - `"pdf"` will only convert the pdfs to pngs.
     - `"redact"` will only clean redaction marks on the pngs and output pngs.
     - `"ocr"` will only convert the pngs to text.
-    - `"both"` will do the full conversion from pdfs to text.
+    - `"all"` will do the full conversion from pdfs to text.
 
 ### Text Cleanup and Parsing (parse_log.py):
 
