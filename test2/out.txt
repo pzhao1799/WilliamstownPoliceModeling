@@ -1,0 +1,2329 @@
+For Date: 01/01/2019 - Tuesday
+Call Number    Time    Call Reason                                  Action
+Duplicate
+19-1           0341    Initiated - PARKING CHECK                    SERVICES RENDERED   .
+ Call Taker:    PATROL CRAIG A EBICHHAMMER
+|            Location/Address:    [WIA 249] NORTH ST
+Unit:    31
+Arvd-03:42:00 Clrd-03:42:17
+29-4           0834    Initiated ~- BUILDING CHECK                   BUILDING CHECKED/SECURED
+Call Taker:    PATROL DAVID JENNINGS, BD
+,            Location/Address:    COLD SPRING RD
+.      Unit:    34
+:                                           . Arvd-08:34:38 Clrd-08:35:33
+Narrative:
+            checked
+| Narrative:
+            done
+_ Narrative:
+            Checked 0259                                                       .
+19-5   .       0842    Initiated -~ BUILDING CHECK                   BUILDING CHECKED/SECURED
+Call Taker:    PATROL DAVID JENNINGS, D
+Location/Address:    LONGVIEW TER
+      Unit:    34
+|                                             Arvd-08:43:07 Clrd~-08:43:21
+:                   Narrative:
+|                             checked
+ Narrative:
+            Checked 0208
+19-6           0846    Initiated - BUILDING CHECK                   BUILDING CHECKED/ SECURED
+Call Taker:    PATROL DAVID JENNINGS, D
+Location/Address:    FRENIER AVE
+:      Unit:    34
+,                                     ;       Arvd-08:46:51 Cird-08:47:607
+Narrative:                ,
+checked
+| Narrative:
+           Checked O159
+19-7       0847    Initiated - BUILDING CHECK                   BUILDING CHECKED/SECURED
+Call Taker:    PATROL DAVID JENNINGS, D
+Location/Address:    HARWOOD ST
+Unit:    34
+:                                             Arvd-08:47:37 Clird-08:48:05
+' Narrative:
+            checked
+Narrative:
+           Checked 9201
+19-8        0859    Initiated - BUILDING CHECK                   BUILDING CHECKED/SECURED
+' Call Taker:    PATROL DAVID JENNINGS, D
+Location/Address:    [WIA 1832] NORTH HOOSAC RD
+:       Unit:    34
+                                              Arvd-08:59:22 Clrd-09:00:14
+? Narrative:
+Checked
+|                 - Narrative:
+checked
+| Narrative:
+checked
+ Narrative:
+01/02/2019 0236 Checked $3
+. Narrative:
+,            01/02/2019 0501 Checked S3
+19-9   .       0903    Initiated - BUILDING CHECK                   BUILDING CHECKED/ SECURED
+Call Taker:    PATROL DAVID JENNINGS, D
+Location/Address:    HAWTHORNE RD
+|         Unit:      34
+                                            Arvd-09:03:18 Clrd-09:03:42
+- Narrative:                                                                                   ;
+            done
+Narrative:
+|                             Checked 0151
+          19-10          a906    Initiated - BUILDING CHECK                   BUILDING CHECKED/SECURED
+Call Taker:    PATROL DAVID JENNINGS, D
+Location/Address:    PETERSBURG RD
+         Unit:      34
+Arvd-09:06:22 Clrd-09:07:57
+- Narrative:
+           done
+. Narrative:
+            01/02/2019 0216 Checked $3
+19-11       0941    Initiated ~- BUILDING CHECK                   BUILDING CHECKED/SECURED
+‘Call Taker:    PATROL DAVID JENNINGS, D
+Location/Address:    NORTH ST
+      Unit:    34
+,                                             Arvd-09:41:46 Clrd-09:41:58
+Narrative:
+           checked
+Narrative:
+01/02/2019 0305 Checked $3
+19-12          1004    Tnitiated - ROAD CONDITIONS                  SERVICES RENDERED
+Call Taker:    PATROL DAVID JENNINGS, D
+Location/Address:    SOUTHWORTH ST
+Unit:    34
+.                                                         Arvd-10:05:59 Clrd-10:07:54
+|                . Narrative:
+             Removed tree debris.
+        19-13      1122   911 - ROAD CONDITIONS                  REMOVED HAZARD
+ Call Taker:    DISPATCHER CHRISTINE LEMOINE
+|            Location/Address:    TACONTIC TRE
+7                        Unit:    34
+|                                 Disp-11:24:04  Enrt-11:24:07 Arva@-11:28:48 Clrd-12:31:31
+|                   Narrative:
+|             Partial read blockage on the downward lane about a mile from
+the A-Frame Bakery. Tree across the road.
+. Narrative:
+            Removed.
+19-14        1134    Initiated - BUILDING CHECK                   BUILDING CHECKED /SECURED
+Call Taker:    PATROL DAVID JENNINGS, D
+Location/Address:    COLD SPRING RD
+Unit:    34
+|                                                               Arvd-11:34:43 Clrd-11:35:30
+Narrative:                                                                                   :
+:             done
+' Narrative:
+            Checkéd 0368
+19-17  .       12.50    Initiated - BUILDING CHECK                   BUILDING CHECKED/SECURED
+Call Taker:    CHIEF KYLE J JOHNSON
+7            Location/Address:    SIMONDS RD
+:      Unit:    33
+                 .                                             Arvd-12:18:44 Clrd-12:18:50
+:              | Narrative:
+                              Part of fence is down on sidewalk. GC advised.
+. Narrative:
+            On scene fixing fence.
+| Narrative:     .
+            checked
+Narrative:
+01/02/2019 0239 Checked 53
+19-15       1201    Initiated - MOTOR VEHICLE STOP               CITATION - WARNING
+Call Taker:    CHIEF KYLE J JOHNSON
+Location/Address:    MAIN svt
+      Umit:    33
+Arvd-12:01:24 Clrd-12:11:28
+Vehicle:    RED 2005 FORD CoO FocuUS. Reg: PC MA 6VNS84 VIN: 3FAFP31N35R126626             .
+' Operator:    MURPHY, ALLEN E @ 63 THICKET ST - ABINGTON, MA 02351~-1026
+               Race: U Sex: M
+Refer To Citation:    T0905978
+:     Owner:    MURPHY, RICHARD A JR @ 39 S$ LAKEVIEW RD - NORTON, MA 02766-1503
+:               Race: U Sex: M
+19-16       1205    Phone - PROPERTY DAMAGE                      INVESTIGATED / REPORT
+TAREN
+Call Taker:    PISPATCHER CHRISTINE LEMOINE
+Location/Address:    {WIA 1933] HENDERSON RD
+.      Unit:    34
+:               ;               Disp-12:07:37 Enrt-12:07:56 Arvd-12:11:13 Clrd-12:30:38
+:   Vehicle:    BLU 2010 GMC PK SIERRA Reg: PC MA VT11441 VIN: 3GTRKTHAAAG214975
+“                :  Operator:    DEFREITAS, TODD J @ 710 HENDERSON RD - WILLIAMSTOWN, MA 01267-2217
+                Race: W Sex: M
+.     Owner ;    DEFREITAS, TODD J @ 710 HENDERSON RD ~ WILLIAMSTOWN, MA 01267-2217
+                Race: W “Sex: M
+Narrative:
+Mailbox and Post were ripped out of the ground and are gone.
+| Narrative:            a
+ at station to speak with Ofc. William
+about earlier mail box incident.
+Refer To Incident:    19-1-OF
+Refer To Accident:    19-2-AC
+          19-22       1527    911 - MOTOR VEHICLE ACCIDENT                BUILDING CHECKED/SECURED
+Call Taker:    PATROL KALVIN DZTEDZIAK
+Location/Address:    NORTH ST
+      Unit:    32
+:                                 Disp-15:27:00                 Arvd-15:29:20 Clrd-15:44:26
+      Unit:    38
+|                                 Disp-15:27:00                 Arvd=15:29:18 Clrd-15:46:09
+,                     Vehicle:    RED 2011 SUZI SX4 Reg: PC MA 66BS20 VIN: JS2YB5A38B6301415
+|                 - Operator:    FORREST, ERICA @ 4 EDMUNDS ST Apt. #A201 ~ ADAMS, MA 01220-2249
+               Race: W Sex: F
+           Refer To Citation:    T1400608
+     Owner:    FORREST, ERICA @ 4 EDMUNDS ST Apt. #A201 - ADAMS, MA 01220-2249
+7                 ,               Race: W Sex: F
+   Vehicle:    GRY 2012 SUBA ST OUTBAC Reg: PC MA 452WB4 VIN: AS4BRBCC8C3239617
+' Operator:    LEBLANC, NATHAN L @ 253 NORTH ST - WILLIAMSTOWN, MA 01267-2004
+               Race: W Sex: M
+Owner :    LEBLANC, NATHAN L @ 253 NORTH ST - WILLIAMSTOWN, MA 01267-2004
+:               Race: W Sex: M
+Narrative:
+            MVA located at the rotary.
+.            1535- Williams Inn asked to hold peter pan bus for three
+additional passengers.
+Refer To Accident:    19~1-AC
+19~23       1603    $11 ~- TRAFFIC COMPLAINT                      PATROL ADVISED
+Call Taker:    PATROL KALVIN DZIEDZIAK
+Location/Address:    SIMONDS RD
+' Narrative:
+:           CP reports that a vehicle was tail-gating her and acting
+.            somewhat aggressively {waving hands, attempting to pass).
+            Vehicle is no longer behind cp but was said to have
+            continued southbound on Simonds road towards the rotary.
+.            Vehicle is said to be a navy blue Hyundai.
+19-26 —       1733    Initiated - BUILDING CHECK                   BUILDING CHECKED/SECURED
+Call Taker:    PATROL JOHN J MCCONNELL JR
+Location/Address:    [WIA 190] MAIN ST                                                              .
+      Unit:    38
+Arv@-17:34:23 Clrd-17:34:30
+Narrative:
+            01/02/2019 0230 No activity Checked $3
+19-27          1738    Tnitiated - MOTOR VEHICLE STOP               CITATION - WARNING
+Call Taker:    PATROL KEVIN P GARNER                “
+Location/Address:    NEW ASHFORD RD
+      Unit:    34                                    .
+                                              Arvd-17:38:06 Clrd-17:43:32
+Vehicle:    BLU 2013 SUBA 4D LEGACY Reg: PC VT HHS977 VIN: 4S3BMBG69D3020965
+  Operator:    MCDONALD, JONATHAN T @ 113 BOOTH TER ~- BENNINGTON, VT 05201
+                .                Race: W Sex: M
+           Refer To Citation:    T1400634
+:     Owner:    SCHNEEBERGER, RAYMOND E @ PO BOX 1267 - WILMINGTON, VT 05363
+Race: U Sex: M
+19-28 |        1754    Initiated - MOTOR VEHICLE STOP               CITATION - WARNING
+Call Taker:    PATROL JOHN J MCCONNELL JR
+            Location/Address:    NORTH HOOSAC RD
+Unit:    38
+.                                              Arvdad-17:54:49 Clrd-18:02:25
+|   Vehicle:    TAN 2007 JEEP 4D GRAND CHEROKEE Reg: PC VI HHY342 VIN:
+1LISHR58287C634668
+                    Operator:    STANLEY, CAITLYN M @ 79 PINE HOLLOW RD - POWNAL, VY 05260
+:                 .               Race: W Sex: F
+           Refer To Citation:    £2400609
+|                 ‘     Owner ;    STANLEY, CAITLYN M @ 79 PINE HOLLOW RD - POWNAL, VT 05260
+|                 :               Race: W Sex: F
+|          19-32       2032    911 ~ FOREST WARDEN DISPATCH                 NO ACTION REQUIRED
+:                 Call Taker:    PATROL KALVIN DZIEDZIAK
+                                     Location:        SPERRY ROAD
+| Narrative:
+|                              CP states he and_two friends of his are located at Sperry
+.            Road camp site JJJ. cp reports that they were planning to
+            spend the night but are not properly prepared and are
+            getting cold. Looking for assistance getting off the Mtn ana
+           back to their vehicle (located at Hopper parking lot). cP
+            has been advised not to move and await further instructions
+            by dispatch/MSP. Cell phone battery: 37%
+2025- MSP notified.
+2031- Forest warden Daniels Notified.
+            2040- Contact information given to MSP.
+            2046- Vehicle located by Unit 34
+            2257- MSP made contact with hikers and transported them to
+            their vehicles.
+19-33          2122.   Initiated - MOTOR VEHICLE STOP               CITATION ~- WARNING
+‘Call Taker:    PATROL SHUAN N WILLIAM
+Location/Address:    GREEN RIVER RD
+      Unit:    32
+                                             Arvd-21:23:09 Clrd-21:30:44
+   Vehicle;    RED 2014 VOLK SE JETTA Reg: PC MA 3BG995 VIN: 3VWD17AJ2EM314619
+ Operator:    GILCOLY, BENJAMIN WILLIAM @ 140 COLE AVE - WILLIAMSTOWN, MA 01267
+               Race: W Sex: M
+Refer To Citation:    T1400584
+,                   Owner:    GILOOLY, SARAH H @ 140 COLE AVE - WILLIAMSTOWN, MA 01267-2550
+5               Race: U Sex: F
+.      19-34 |       2144    Initiated - MOTOR VEHICLE STOP               CITATION - WARNING
+Call Taker:    PATROL KEVIN P GARNER
+Location/Address:    COLD SPRING RD
+Unit:    34
+                                             Arvd-21:44:20 Clrd-21:49:02      }
+Vehicle:    BLU 2012 HOND 4D Reg: PC DC BUa8E4
+.               |
+:
+.  Operator:    ABI AWAD, ANTONY @ 7164 ALASKA AVE NW ~ WASHINGTON, DC 20012
+               Race: W Sex: M
+Refer To Citation:    T1400635
+     Owner:    OUR LADY OF LEBANON SEMINARY @ 7164 ALASKA AVE NW - WASHINGTON, DC
+20012 -
+For Date: 01/02/2019 - Wednesday
+          19-39 =       0224    Initiated - SUSPICIOUS MOTOR VEHICLE         LOG ENTRY REQUEST
+Call Taker:    SERGEANT PAUL D THOMPSON
+|            Location/Address:    {WIA 191] MAIN ST
+      Unit:    38
+                                                               Arvd-02:26:58 Clrd-02:27:02
+|  Vehicle:    BRO 2001 JEEP GRACHE Req: PC MA 8JAB70 VIN: 1J4GX58S71C738157     ,
+|                 :     Owner:    MCGOVERN, PAUL H @ 154 PLEASANT ST - N ADAMS, MA 01247-4223
+|                             - Race: U Sex: M
+7                 ' Narrative:
+            Still in lot as noted 12-31-18 Building Secure.
+:          19-40 |       0357    Initiated - PARKING CHECK                    SERVICES RENDERED
+                  Call Taker:    PATROL CRAIG A EICHHAMMER
+            Location/Address:    (WIA 249] NORTH ST
+7      Unit:    31
+?                                                               Arvd-03:57:18 Clrd-03:57:43
+19-41          0638    Initiated - ROAD CONDITIONS                 SERVICES RENDERED
+|                 Call Taker:    CHIEF KYLE J JOHNSON
+Location/Address:    COLD SPRING RD
+:      Unit:    33
+.                                             Arvd-06:40:04 Clrd-06:40:18
+Narrative:
+Coyote removed from SB lane by Saddleback Antiques
+19-42 —       0644    Phone - NOISE COMPLAINT                     SERVICES RENDERED
+Call Taker:    PATROL ANTHONY M DUPRAT
+Location/Address:    NORTH HOOSAC RD
+      Unit:    37K
+Disp-06:47:25 Enrt-06:47:45 Arvd-06:50:26 Clrd-06:57:29
+Narrative:
+            CP reporting noise complaint from her neighbors house, CP
+            reports the rooster has been making noise for the last half
+.           hour.
+Narrative:
+GR fon BBBRadvised of noise complaint. She was
+apologetic and understanding. She has 2 roosters and is in
+            the process of getting rid of them.
+19-43.       0720    Initiated ~ TRAFFIC CONTROL      ,           SERVICES RENDERED
+‘Call Taker:    PATROL TANIA HERNANDEZ
+Location/Address:    COLD SPRING RD
+Unit:    36
+.                                             Arvd-07:21:28 Clrd-07:27:37
+      Unit:    36
+               Disp-07:35:37                Arvd-07:35:59 Clrd-07:45:06
+' Narrative:
+           1 violation
+19-44  :       0727    Initiated - MOTOR VEHICLE STOP               CITATION - WARNING
+‘Call Taker:    PATROL TANIA HERNANDEZ       .
+            Location/Address:    COLD SPRING RD
+                        Unit:    36
+|                                                               Arvd@-07:27:37 Clrd-07:35:29
+7                 :   Vehicle:    GRN 2011 SUBA FOREST Reg: PC MA 45728 VIN: JF2SHABCOBH719009
+                    Operator:    STRANGE, BONNIE L @ 1544 HANCOCK RD - WILLIAMSTOWN, MA 01267-3080
+                                 Race: W Sex: F
+           Refer To Citation:    TL400567
+|                       Owner:   STRANGE, BONNIE L @ 1544 HANCOCK RD - WILLIAMSTOWN, MA 01267-3080
+               Race: U Sex: F
+19-45       0746    Initiated - TRAFFIC CONTROL                  SERVICES RENDERED
+Call Taker:    PATROL TANIA HERNANDEZ
+Location/Address:    GALE RD
+.      Unit;    36
+Arvd-07:47:15 Clrd-08:03:48
+      Unit:    32
+               Disp-15:00:20 Enrt-15:01:19 Arvd-15:01:57 Clrd-15:15:39
+19-47          O814    Initiated - TRAFFIC CONTROL                  SERVICES RENDERED
+-Call Taker:    PATROL TANITA HERNANDEZ
+Location/Address:    COLE AVE
+Unit:    36
+                                             Arvd-08:14:28 Clrd-08:19:39
+      Unit:    36
+.               Disp-08:29:04                 Arvd-08:29:07 Clird-08:38:13
+Unit:    36
+Disp-08:45:47                 Arvd-08:46:35 Clrd-08:49:21
+Unit:    36
+Disp~-13:24:48                                Clrd-13:26:17
+Unit:    34
+Disp-13:26:02 Enrt-13:26:03 Arvd-13:26:53 Clrd-13:43:15
+Narrative:
+2 violation
+19-48       0819.   Initiated - MOTOR VEHICLE STOP               CITATION - WARNING
+‘Call Taker:    PATROL TANIA HERNANDEZ.
+Location/Address:    COLE AVE
+      Unit:    36
+                                             Arvd-08:19:39 Clird-08:28:55
+   Vehicle:    WHI 2005 GMC SAVANA Reg: CO MA R73604 VIN: 1GTGG25V251244387
+Operator:    BARNABY, NICHOLAS O @ 16 OLD WILLIAMSTOWN - LANESBOROUGH, MA 01237-
+0000
+               Race: W Sex: M
+Refer To Citation:    T1L400568
+     Owner:    BARNABY, TIMOTHY P @ 41 WABASSO ST - LANESBOROUGH, MA 01237-0607
+Race: U Sex: M
+19-49          0838    Initiated - MOTOR VEHICLE STOP               CITATION - WARNING
+Call Taker:    PATROL TANIA HERNANDEZ
+Location/Address:    COLE AVE
+      Unit:    36
+    Arvd-08:38:13 Clrd-08:45:38                     |
+   Vehicle:    RED 2011 TOYT 4D PRIUS Reg: PC VT GYS870 VIN: JTDKN3SDUOBO320270
+Operator:    BROOKS, CAROLYN @ 1484 EAST RD - STAMFORD, VIF 05352
+              Race: W Sex: F
+Refer To Citation:    T14005693
+.     Owner:    BROOKS, CAROLYN @ 1484 EAST RD. - STAMFORD, VT 05352
+Race: W Sex: F
+19-50       0854    Initiated ~ BUILDING CHECK                   BULLDING CHECKED/ SECURED
+Call Taker:    PATROL TANITA HERNANDEZ
+Location/Address:    FRENIER AVE
+,      Unit:    36
+Arvd-08:55:54 Clrd-08:56:11
+_ Narrative:
+Mailbox was opened, closed it.
+Narrative:
+            checked
+| Narrative:
+Checked Area,
+19-51 |       0856    Initiated - BUILDING CHECK                   BUILDING CHECKED/SECURED
+Cali Taker:    PATROL TANIA HERNANDEZ
+Location/Address:    HARWOOD SsT
+.      Unit:    36
+Arvd-08:56:46 Cilrd-08:57:22
+Narrative:
+            checked
+. Narrative:
+Checked Area.
+19-52          0901    Initiated - BUILDING CHECK                   BUILDING CHECKED/SECURED
+|
+Call Taker:    PATROL TANIA HERNANDEZ
+Location/Address:    LONGVIEW TER                                                                   |
+,      Unit:    36
+Arvd-09:01:41 Clrd-09:02:04
+Narrative:
+|                             checked
+                   Narrative:
+           Checked Area.
+19-55  ,       o956    Initiated - PARKING CHECK                    SERVICES RENDERED
+Call Taker:    PATROL TANIA HERNANDEZ
+Location/Address:    PARK ST
+Unit:    36
+Arvd-09:56:36 Clrd-09:59:38
+. Narrative:
+.   no violations
+19-56  |       1000    Initiated - BUILDING CHECK                   BUILDING CHECKED/SECURED
+Call Taker:    PATROLMAN MICHAEL J ZIEMBA Jx
+Location/Address:    COLD SPRING RD
+      Unit:    34
+Arvd-10:00:30 Clrd-10:01:04
+’ Narrative:
+Checked S-4 17:04                                                               |
+Narrative:
+done
+’ Narrative:
+Checked Area.
+19+57          1002    Initiated - PARKING CHECK                   SERVICES RENDERED
+Call Taker:    PATROL TANIA HERNANDEZ
+Location/Address:    SPRING ST
+|                |
+:                |      Unit:    36
+|                                          Arvd-10:02:18 Clrd-10:10:15
+|                 ' Narrative:
+            3 violations
+          19-58 ©       1005    Initiated - BUILDING CHECK                   BUILDING CHECKED/ SECURED
+|                 Call Taker:    PATROLMAN MICHAEL J ZIEMBA Jr
+7            Location/Address:    COLD SPRING RD
+      Unit:    34
+Arvd-10:05:17 Clrd-10:05:37
+. Narrative:
+Checked   S-4 17:00
+| Narrative:
+done
+ Narrative:
+            Checked Area.
+19-59  ;       1006    Initiated - BUILDING CHECK                   BUILDING CHECKED/SECURED
+‘Call Taker:    PATROLMAN MICHAEL J ZIEMBA Jr
+Location/Address:    (WIA 225] COLD SPRING RD
+      Unit:    34
+Arvd-10:07:07 Clrd-10:27:16
+Narrative:
+Checked
+19-60       1018    Initiated - BUILDING CHECK                   BUILDING CHECKED/SECURED          |
+Call Taker:    PATROL TANIA HERNANDEZ
+Location/Address:    (WIA 333] CHURCH ST
+,      Unit:    36
+Arvd-10:18:59 Clrd-10:20:22
+Narrative:
+            Checked couple cars waiting for release
+19-61       1024    Initiated - BUILDING CHECK                   BUILDING CHECKED/SECURED
+Call Taker:    PATROL TANIA HERNANDEZ                                                    |
+Location/Address:    [WIA 1832] NORTH HOOSAC RD                                                     :
+      Unit:    36
+:                                         Arvd-10:25:26 Clrd-10:26:46
+.                 . Narrative:
+:            Checked
+' Narrative:
+.           checked
+,                                                                                      |
+. Narrative:                                                                     ]
+           done
+. Narrative:
+01/03/2019 0103 Checked $3
+Narrative:
+01/03/2019 0515 Checked $3
+19-62       1030    Initiated - BUILDING CHECK                   BUILDING CHECKED/SECURED          .
+|
+|
+                Call Taker:    PATROL TANIA HERNANDEZ
+|             Location/Address:    NORTH HOOSAC RD
+!                        Unit:    36
+:                                              Arvd-10:30:55 Clrd-10:31:493
+                 _ Narrative:
+            checked
+                   Narrative:
+|             01/03/2019 0158 Checked $3
+18-63          1031    Initiated - BUILDING CHECK                  BUILDING CHECKED/SECURED
+Call Taker:    PATROLMAN MICHARL J ZIEMBA Jr
+Location/Address:    HAWTHORNE RD
+.      Unit:    34
+Arvd-10:31:24 Clrd-10:31:47
+Narrative:
+Checked S-4 18:25
+Narrative:
+            Checked Area.
+19-64       1036    Initiated - BUILDING CHECK                   BUILDING CHECKED/SECURED
+-Call Taker:    PATROLMAN. MICHAEL J ZIEMBA Jr
+Location/Address:    PETERSBURG RD
+Unit:    34
+Arvd-10:36:32 Clrd-10:36:57
+Narrative:
+            Checked S-4 18:31
+. Narrative:
+.           Checked Area.
+19-70 «|       1507    Initiated ~ PARKING CHECK                   SERVICES RENDERED
+‘Call Taker:    SERGEANT DAVID R LEMIEUX                                                       |
+Location/Address:    SPRING ST
+Unit:    31
+                                             Arvd-15:09:47 Clrd-15:18:15
+. Narrative:
+2 violations
+19-71          1517    Initiated - PARKING CHECK                    SERVICES RENDERED
+Call Taker:    PATROL SHUAN N WILLIAM                                                         ;
+Location/Address:    PARK ST
+               Unit:          32
+                                             Arvd-15:17:38 Clird-15:28:53
+' Narrative:                                                                                   |
+01/02/2019 1517 ~ Start                                                           :
+19-72  :       1643    initiated - PARKING CHECK                    SERVICES RENDERED                 ,
+Call Taker:    PATROL SHUAN N WILLIAM
+Location/Address:    [WIA 406] SCHOOL ST
+      Unit:    32
+Arvd-16:44:08 Clrd-16:48:55
+' Narrative:
+01/02/2019 1643 - no violations
+19-73  .   .   1719    Radio - MOTOR VEHICLE STOP                  INVESTIGATED / REPORT
+TAKEN
+Call Taker:    DISPATCHER LAURIE TUPER
+Location/Address:    BRIDGES RD
+:      Unit:    32
+:               Disp-17:19:46                 Arvd-17:19:49 Clrd-17:43:04
+,      Unit:    31
+Disp-17:19:54 Enrt-17:22:21 Arvd-17:25:49 Clrd-17:42:16
+:   Vehicle:    GRN 2000 OLDS SH INTRIG Reg: PC MA 5STS175 VIN: 1G3WX52H7YF115838
+ Operator:    BEVERAGGI, SAMANTHA MARIE @ 19 SECOND ST - ADAMS, MA 01220-1907
+               Race: W Sex: F
+Refer To Citation:    T1400585
+     Owner:    RHINEMILLER, DAVID B @ 20 COUNTRY CLUB AVE - ADAMS, MA 01220-1639
+,               Race: U Sex: M
+:   Vehicle:
+,  Operator:    MILLER, AVERY DAVID @ 945 JENKS RD - CHESHIRE, MA 01225
+Race: W Sex: M
+Refer To Citation:    00557
+. Narrative:
+            MV Stopped.
+            1743 hrs. Transporting Juv to station: Mileage 19625
+1747 hrs. Arrival at WPD: 19626.9
+1815 hrs. Juv. released to mother.
+Refer To Incident:    19-3-OF
+19-74          1804    Initiated - BUILDING CHECK                   BUILDING CHECKED/SECURED
+Call Taker:    SERGEANT DAVID R LEMIEUX
+Location/Address:    SIMONDS RD
+.      Unit:    31
+                                             Arvd-18:07:07 Clrd-18:12:19
+' Narrative:
+done
+_ Narrative:
+            01/03/2019 G116 Checked 53
+19-75       1905    Initiated - MOTOR VEHICLE STOP               CITATION - WARNING
+‘Call Taker:    PATROL KEVIN P GARNER
+Location/Address;:    COLD SPRING RD
+Umit:    34                                                                       |
+                                         Arvd-19:05:12 Clrd-19:09:59                    =.
+_ Vehicle:    BLK 2014 BMW 4D Reg: PC VI HDE873
+  Operator:    CROWLEY, AUSTIN J @ 132 RT67E - SHAFTSBURY, VT 05262
+               Race: W Sex: F                                                                |
+Refer To Citation:    T1400636                                                                       )
+Owner:    CROWLEY, AUSTIN J @ 132 RT6G7E - SHAFTSBURY, VT 05262                           2
+19-77          1935    Initiated - BUILDING CHECK                   BUILDING CHECKED/SECURED _
+Call Taker:    SERGEANT DAVID R LEMIEUX
+Location/Address:    [WIA 190] MAIN ST
+;     Unit:    31
+:                                             Arvd-19:36:33 Clrd-19:38:14
+' Narrative:
+No activity                                                                    .
+Narrative:
+           checked
+Narrative:
+.           01/03/2019 0057 Checked 53
+19-76          1936    Initiated - MOTOR VEHICLE STOP               CITATION - WARNING .
+7                 Call Taker:    PATROL KEVIN P GARNER
+:            Location/Address:    HANCOCK RD
+|                 :      Unit:    34
+:                                             Arvd-19:36:05 Clird-19:40:09
+:   Vehicle:    GRY 2018 NISS U ROGUE Reg: PC MA-1BFT54 VIN: JNSAT2MV5JW324710
+:  Operator:    DURFEE, SANDRA L @ 33 MINER RD - LANESBOROUGH, MA 01237-9789
+Race: W Sex: F
+Refer To Citation:    T1400637
+.             .     Owner:    DORFEE, SANDRA L @ 33 MINER RD - LANESBOROUGH, MA 01237-9789
+Race: W Sex: F
+19-78 -       1940    Initiated - MOTOR VEHICLE STOP               CITATION - WARNING
+Call Taker:    SERGEANT DAVID R LEMIEUX
+Location/Address:    MAIN ST
+Unit:    31
+ArvG-19:40:36 Clrd-19:512:14
+Vehicle:    BLK 2009 VOLV SE S40 Req: PC MA RT3700 VIN: YV1MS3901924649230
+Operator:    MASON, CHRISTINE @ 89 BAXTER RD - WILLIAMSTOWN, MA 01267-2110
+Race: W Sex: F
+Refer To Citation:    T0.905594
+,     Owner:    MASON, RALPH C ITT @ 89 BAXTER RD - WILLIAMSTOWN, MA 01267-2110
+               Race: W Sex: M
+.      19-79          1956    Initiated - MOTOR VEHICLE STOP               CITATION - WARNING
+Call Taker:    PATROL KEVIN P GARNER
+Location/Address:    COLD SPRING RD
+Unit:    34
+                                             Arvd-19:56:41 Clrd-20:03:49
+   Vehicle:    GRY 2009 TOYT SE CAMRY Reg: PC MA 4JV573. VIN: 4TILBB46K89U105938
+Operator:    BLACK, ANNA F @ 1427 PARESKY CTR - WILLTAMSTOWN, MA 01267
+Refer To Citation:    1400638
+     Owner:    ANDERSEN, VALERIE A @ 16 DAN AVE - PITTSFIELD, MA 01201-7242
+               Race: U Sex: FP
+19-81       2208    Initiated - MOTOR VEHICLE STOP              CITATION - WARNING
+‘Call Taker:    PATROL KEVIN P GARNER
+Location/Address:    WATER ST
+.      Unit:    34
+                                             Arvd-22:08:57 Clrd-22:14:37                     |
+   Vehicle:    WHI 2017 TOYT SE CAMRY  Reg: PC MA BZNK60 VIN: 4TLBFLFK4HU292337        |
+- Operator:    ALVARENGA, ANA S @ 69 SPRING ST - WILLIAMSTOWN, MA 01267                       :
+               Race: W Sex: F
+Refer To Citation:    £2400639
+     Owner:    ALVARENGA, ANA S @ 69 SPRING ST ~ WILLIAMSTOWN, MA 01267                       )
+               Race: W Sex: F
+19-82       2221    Initiated - MOTOR VEHICLE STOP              CITATION ~ CIVIL
+Call Taker:    PATROL SHUAN N WILLIAM
+Location/Address:    BRIDGES RD
+:      Unit:    32
+                                             Arvd-22:22:03 Clrd-22:28:53
+  Vehicle:    BLK 2016 HOND SE CIVIC  Reg: PC MA 7473T5 VIN: 2HGFC2F51GH577370
+Operator:    COHEN, JENNIFER E @ 38 CATHERINE ST - N ADAMS, MA 01247-3120
+              Race: W Sex: F
+Refer To Citation:    T1400586
+Owner:    BERGER, MATTHEW D @ 19 E QUINCY ST - N ADAMS, MA 01247-4307
+:              Race: U Sex: M
+For Date: 01/03/2019 - Thursday
+19-85       0349    Initiated - PARKING CHECK                    SERVICES RENDERED
+Call Taker:    PATROLMAN SCOTT SKORUPSKI
+Location/Address:    {WIA 249] NORTH ST
+:      Unit:    32
+                                             Arvd-03:49:40 Clrd-03:49:47
+19-86          O351    Initiated - ROAD CONDITIONS                  SERVICES RENDERED
+Call Taker:    PATROLMAN SCOTT SKORUPSKI
+Location/Address:    NORTH ST
+     Unit:    32
+                                             Arv@-03:52:10 Clrd-03:52:55
+. Narrative:
+:            Roads are slick and snow covered. Dispatch to notify DPW.
+0355- DPW Employee contatced
+19-87       0603    911 - ASSIST OTHER AGENCY                    TAKEN/REFERRED TO OTHER
+AGENCY .
+‘Call Taker:    PATROL KALVIN DZITEDZIAK
+Location/Address:    {WIA 165] ADAMS RD
+' Narrative:
+State 911 called inquiring if there was a Richmond Commons
+            located in Williamstown. State 911 was advised there was a
+            Williamstown Commons located off of Adams Road in the town
+            of Williamstown. Call transferred to Williamstown Dispatch
+            from State 911.
+CP, who was unaware of his location, stated he was located                        |
+            in room ae and in need of assistance. CP reported that he
+.            was feeling suicidal and needed help.
+0608- Williamstown Commons contacted and informed of same.
+19-88          O717    Initiated - TRAFFIC CONTROL                  SERVICES RENDERED
+Cail Taker:    PATROL TANIA HERNANDEZ
+Location/Address:    COLD SPRING RD
+,      Unit:    36
+.                                     Arvd-07:18:05 Clrd-07:42:10
+Unit:    36
+               Disp-14:06:33 Enrt-14:07:04 Arvd-14:07:55 Clrd-14:12:43
+Location Change:    COLD SPRING RD [Modified: 01/03/2019 1406]
+     Unit:    36                                                                           :
+               Disp-14:18:48                 Arvd-14:19:01 Clrd-14:23;42                     ,
+.     Unit:    36.
+.            Disp-14:29:02              Arvd-14:30:17 Clrd-14:40:44
+.    Unit:   36
+.            Disp-14:46:27              Arvd-14:47:00 Clrd-14:47:04                  |
+Narrative:
+           3 violations
+19-89       07414    Initiated ~- TRAFFIC CONTROL                  SERVICES RENDERED
+Call Taker:    PATROLMAN MICHAEL J ZIEMBA Jr
+Location/Address:    GALE RD
+.    Unit:    37K
+.                                    Arvd-07:41:44 Clrd-07:59:56
+Unit:    31
+              Disp-14:59:42 Enrt-14:59:48 Arvd-15:05:28 Clrd-15:19:16
+19-90      O755    Phone - SOLICITING                          NO ACTION REQUIRED
+Call Taker:    PATROL DAVID JENNINGS, D                                            .
+Location:    WILLIAMSTOWN
+Vehicle:    GRY 2006 KIA SE SPECTR  Reg: PC MA 6TE932 VIN: KNAPE121765301624
+ Operator:    ANTCZAK, MATTHEW J @ 200 W HOUSATONIC ST - PITTSFIELD, MA 01201-6041
+              Race: W Sex: M
+    Owner:    ANTC2ZAK, JOHN S @ 11 ROBERTS RD - BOXFORD, MA 01921-1821
+               Race: W Sex: M
+Narrative:
+            Verizon and US Sinergenics employee going around town
+:            Thursday and Friday from 0800-1600 doing surveys.
+19-91       osol1    Initiated - BUILDING CHECK                   BUILDING CHECKED/SECURED
+Call Taker:    PATROL TANIA HERNANDEZ
+Location/Address:    {WIA 1832] NORTH HOOSAC RD
+Unit:    36
+                                             Arvad-08:01:50 Clrd-08:03:25
+Narrative:
+            checked
+Narrative:
+            Checked
+_ Narrative:
+;            checked
+' Narrative:
+           done
+Narrative:
+01/04/2019 0030 Checked $3
+. Narrative:
+01/04/2019 0432 Checked 83
+19-92          0805    Initiated - BUILDING CHECK                   BUILDING CHECKED / SECURED
+Call Taker:    PATROL TANIA HERNANDEZ
+Location/Address:;    NORTH HOOSAC RD
+Unit:    36.
+Arvd-08:05:19 Clird-08:05:39                     |
+. Narrative:                                                                                   ,
+.            checked                                                                           :
+Narrative:
+01/04/2019 0028 Checked S3                                                        |
+19-94  .       0807    Other - ASSIST OTHER AGENCY - REPO           SERVICES RENDERED
+Cail Taker:    PATROL DAVID JENNINGS, D
+Vehicle:    WHI 2013 HYUN SE ELANTRA  Reg: PC MA 2C5815 VIN: SNPDH4AESDH351247
+     Owner:    LAFLECHE, JANELL MARTE @ 15 ARCH ST - PITTSFIELD, MA 01201-5423
+               Race: W Sex: F
+- Narrative:
+           Ma PC 2CS815 repossessed from [i Adams Rd.
+19-93  .       oso0s    Initiated ~- TRAFFIC CONTROL                  SERVICES RENDERED
+Calli Taker:    PATROL TANTA HERNANDEZ
+Location/Address:    SOUTHWORTH ST
+Unit:    36
+                                            Arvd-08:09:01 Clrd~08:38:29
+     Umit:    32
+:              Disp-14:58:10 Enrt-14:58:15                 Clyrd-15:00:51
+Narrative:
+.           Drove through the lot and staff outside, all flowing good.
+19-95       0909    Initiated - BUILDING CHECK                   BUILDING CHECKED / SECURED
+Call Taker:    PATROL TANIA HERNANDE?
+Location/Address:    LONGVIEW TER
+Unit:    36
+                                             Arvd-09:09:18 Clrd-09:09:50
+- Narrative:
+Checked
+Narrative:
+            Checked Area.
+19-96       0912    Initiated - BUILDING CHECK                   BUILDING CHECKED/ SECURED
+Call Taker:    PATROL TANIA HERNANDEZ
+Location/Address:    FRENIER AVE
+Unit:    36
+.                                            Arvd-09:13:04 Clrd-09:13:44
+Narrative:
+        checked
+| Narrative:
+:            Checked Area.
+19-97       q914    Initiated ~- BUILDING CHECK                   BUILDING CHECKED/SECURED
+Call Taker:       PATROL TANIA HERNANDEZ
+Location/Address:    HARWOOD ST
+Unit:    36
+                                             Arvd-09:14:23 Clrd-09:14:58
+. Narrative:
+checked
+. Narrative:
+Checked Area.
+19-98          0918    Initiated - PARKING CHECK                   SERVICES RENDERED
+Call Taker:       PATROL TANIA HERNANDEZ
+Location/Address:    SPRING ST
+         Unit:       36
+                                             Arvd-09:19:01 Clrd-09:25:41
+| Narrative:
+           no violations
+19-99       0922    Initiated - BUILDING CHECK                   BUILDING CHECKED/SECURED
+Call Taker:    PATROLMAN MICHAEL J ZIEMBA Jr                                                  |
+Location/Address:    COLD SPRING RD                                                                 |
+         Unit:       37K
+                                                                    Arvd-09:22:56 Clrd-09:23:08                                 |
+| Narrative:
+            Checked S-4 17:05
+ Narrative:
+            done
+Narrative:
+Checked Area.
+19-100 —       0927    Initiated -~ PARKING CHECK                    SERVICES RENDERED
+Call Taker:    PATROL ‘PANTA HERNANDEZ
+Location/Address:    PARK ST
+     Unit:    36
+                                             Arvd-09:27:55 Clrd-09:33:27
+|                   Narrative:
+            1 violation
+          19-101 |        0928.   Initiated - BUILDING CHECK                   BUILDING CHECKED/SECURED
+                 tall Taker:    PATROLMAN MICHAEL J ZIEMBA Jr
+Location/Address:    COLD SPRING RD
+      Unit:    37K
+.                                             Arvd-09:28:20 Clrd-09:28:32
+ Narrative:
+:            Checked $-4 16:45
+            1832 Owner called stating they are home now.
+19-1602         0929    Initiated = BUILDING CHECK                   BUILDING CHECKED/SECURED
+Call Taker:    PATROLMAN MICHAEL .J 2IEMBA dr
+Location/Address:    {WIA 225] COLD SPRING RD
+,      Unit:    37K
+Arvd-09:30:10 Clrd-09:30:18
+19-103         0935    Initiated ~ BUILDING CHECK                   BUILDING CHECKED/SECURED
+Call Taker:    PATROL TANIA HERNANDEZ                                                      |
+Location/Address:    [WIA 333] CHURCH sT
+      Unit:    36
+Arvd-09:36:11 Clrd-09:37:27
+| Narrative:
+Checked
+19-104 .       0942    Initiated - BUILDING CHECK                   BUILDING CHECKED/ SECURED
+“Call Taker:    PATROL TANIA HERNANDEZ
+Location/Address:    HAWTHORNE RD                                                                   |
+      Unit:    36.
+                                             Arvd-09:42:36 Cird~09:43:18
+' Narrative:
+            Checked S-4 17:16
+. Narrative:
+Checked Area.
+19-105 .       0947    Initiated - BULLDING CHECK                   BUILDING CHECKED/SECURED
+‘Call Taker:    PATROL TANIA HERNANDEZ
+Location/Address:    PETERSBURG RD
+Unit:    36
+Arvd-09:47:47 Clrd-09:48:57                     |
+Narrative:                                                                                   :
+Chécked §-4 17:21                                                               |
+|
+Narrative:                                                                                   2
+            Checked Area.
+19-~108         L030    Walk-In - WELL BEING CHECK.                  SERVICES RENDERED
+Call Taker:    PATROL DAVID JENNINGS, D
+Location/Address:    (WIA 1832] NORTH HOOSAC RD
+,      Unit:    37K
+,               Disp~10:30:00  Enrt-10:30:14 Arvd-10:32:23 Clrd-11:16:04
+Location Change;    (WIA 249] NORTH ST [Modified: 01/03/2019 1111]
+' Narrative:
+.            CP in station to speak to ofc. Ziemba about a past incident
+            from 12/31/18.
+:            1034 Transporting party from 1231 North Hoosac rd to the
+station starting milage 43068.
+            1038 Ending 43070.3.
+Facilitated discussion between family in an attempt to get
+            WSs cos return home.
+19-107 |       1041    Phone - WELL BEING CHECK                     SERVICES RENDERED
+Call Taker:    PATROL DAVID JENNINGS, D
+Location/Address:    MILL ST
+Unit:    36
+Disp-10:42:55 Enrt-10:43:23 Arvd-10:47:12 Clrd-10:52:46
+Narrative:
+            Northern Berkshire Transport supposed to pick up party but       .
+no answer.
+Narrative:
+            Lets of furniture outside. No answer, back door unlocked, no
+one home, apartment empty.
+19-109 .       1333    Radio - TRAFFIC COMPLAINT                    SERVICES RENDERED
+Call Taker:    PATROL DAVID JENNINGS, D
+Location/Address:    MAIN ST       |
+,      Unit:    36
+Disp-13:34:42 Enrt-13:35:16                 Clrd-13:36:36
+      Unit:    37K
+               Disp-13:34:42 Enrt-13:35:45 Arvd-13:36:06 Clrd-13:41:09
+   Vehicle:    GRY 2017 SE Reg: TL NY AV96868 VIN: 1EIF9S388HRO58672
+     Owner :    EASTON CAR & CONSTRUCTION @ 1021 RIVER RD - SELKIRK, NY 12158
+                 - Narrative:
+:                              Erratic of a truck with trailer with NY plates trailer is
+            said to be all over the place.
+                 | Narrative:
+            Followed through town, no improper operation observed at
+|           all.                       |
+19-110         1405    Phone - MOTOR VEHICLE ACCIDENT              INVESTIGATED / REPORT
+TAKEN
+Call Taker:    PATROL DAVID JENNINGS, D
+Location/Address:    [WIA 361} PARK ST
+:      Unit:    37K
+Disp-14:06:22                 Arvd-14:07:09 Clird-14:12:25
+Vehicle:    GRY 2012 ACUR Reg: PC FL CQDQ22 VIN: 2HNYD2H43CH507057
+     Owner:    WESSELL, DANIEL EDWARD @ 1357 HERITAGE MANOR DR - JACKSONVILLE, FL
+32207
+Race: W Sex: M
+. Narrative:
+           Past MVA.                                 .
+Refer To Accident:    19-3-AC
+19-1113         1412    Initiated - MOTOR VEHICLE STOP               CITATION - WARNING
+Call Taker:    PATROL TANIA HERNANDEZ                                                         .
+Location/Address:    COLD SPRING RD                                                                 |
+     Unit:    36
+.                                         Arvd-14:12:43 Clrd-14:18:33
+  Vehicle:    GRY 2011 NISS SE ALTIMA Reg: PC MA 177VZ2 VIN: IN4CL2AP3BC185230             |
+Operator:    EGRESITZ, HAVEN ORECCHIO @ 29 FERN ST - PITTSFIELD, MA 01201-6734
+Race: W Sex: F
+Refer To Citation:    T1400570
+.     Owner:    EGRESITZ, HAVEN ORECCHIO @ 29 FERN ST - PITTSFIELD, MA 01201-6734
+               Race: W Sex: F
+19-112 -       1423    Initiated - MOTOR VEHICLE STOP               CITATION ~ WARNING
+‘Call Paker:    PATROL TANIA HERNANDEZ
+Location/Address:    COLD SPRING RD
+.      Unit :    36
+                                             Arvd-14:23:42 Clrd-14:28:53
+   Vehicle:    GRY 2011 TOYT PRIUS Reg: PC MA 5XSVS0 VIN: JTDKN3DU4B5358121
+Operator:    LONGFELLOW, STEPHEN C @ 795 SHAFT RD - N ADAMS, MA 01247-2941
+               Race: W Sex: M
+Refer To Citation:    T1L400571
+,     Owner:    LONGFELLOW, STEPHEN C @ 795 SHAFT RD - N ADAMS, MA 01247-2941
+Race: W Sex: M
+19-113         1440    Initiated - MOTOR VEHICLE STOP               CITATION - WARNING
+‘Call Taker:    PATROL TANIA HERNANDEZ
+Location/Address:.    COLD SPRING RD
+:      Unit:    36
+Arvd-14:40:44 Clrd-14:46:12
+Vehicle:    GRY 2007 HOND SE ACCORD Reg: PC MA 478VK3 VIN: 1HGCM56717A036384
+  Operator:    GERVAIS, TARA D @ 67 MAIN ST - WILLIAMSTOWN, MA 01267-2603
+               Race: W Sex: F
+Refer To Citation:    T1400572
+Owner:    GERVAIS, TARA D @ 67 MAIN ST - WILLIAMSTOWN, MA 01267-2603
+               Race: U Sex: F                                                                |
+19-114 —       1501    Initiated - TRAFFIC CONTROL                  SERVICES RENDERED
+‘Call Taker:    PATROL SHUAN N WILLIAM
+Location/Address:    [WIA 333] CHURCH ST
+:      Unit: |  32
+                                             Arvd-15:01:34 Clrd-15:17:06
+19-115 .       1518    Initiated - PARKING CHECK                    SERVICES RENDERED
+Call Taker:    PATROL SHUAN N WILLIAM                                                         .
+Location/Address:    SPRING ST                                                                      |
+      Unit:    32                                                                             :
+Arvd-15:18:5i Clrd-15:29:08                     |
+Narrative:
+01/03/2019 1518 - Start
+            01/03/2019 1700 - 7 violations
+19-116 —       1520    Initiated - PARKING CHECK                    SERVICES RENDERED
+Cail Taker:    SERGEANT DAVID R LEMIEUX
+Location/Address:    PARK ST
+,     Unit:    31
+|                                             Arvd-15:22:13 Clrd-15:26:55
+19-117         1716    Initiated - PARKING CHECK                    SERVICES RENDERED
+Call Taker:    PATROL SHUAN N WILLIAM
+Location/Address:    [WIA 406] SCHOOL ST
+.     Unit:    32
+Arvd-17:16:39 Cird-17:21:19
+- Narrative:
+.           01/03/2019 1716 ~ no violations.
+19-118      1729    Initiated ~ BUILDING CHECK                  BUILDING CHECKED/ SECURED
+Call Taker:    SERGEANT DAVID R LEMIEUX
+Location/Address:    SIMONDS RD
+Unit:    34                                                                             .
+Arvd-17:29:15 Clrd-17:30:26
+. Narrative:
+done
+- Narrative:
+            01/04/2019 0039 Checked $3
+19-121         1839    Initiated - BUILDING CHECK                   BUILDING CHECKED/SECURED
+Call Taker:    SERGEANT DAVID R LEMIEUX
+Location/Address:    [WIA 190] MAIN ST
+      Unit:    31
+Arvd-18:40:41 Clrd-18:43:03
+Narrative:
+           No activity                                                              .
+. Narrative:
+            01/04/2019 0014 Checked $3
+19-125         1945    Initiated - SUSPICIOUS. MOTOR VEHICLE.        LOG ENTRY REQUEST                 .
+Call Taker:    PATROL KEVIN P GARNER
+Location/Address:    NORTH HOOSAC RD
+Unit:    34
+Arvd-19:48:30 Clrd-19:49:03
+.   Vehicle:    WHI 2002 DODG RAMTRU Reg: PC MA 7ER381 VIN: 1D7HU18Z923184972
+. Operator:    GALLESE, NICOLE C @ 1433 MASS AVE - N ADAMS, MA 01247-2238                     ,
+               Race: U Sex: F                                                                ,
+Owner:    GALLESE, NICOLE C @ 1433 MASS AVE - N ADAMS, MA 01247-2238                     |
+               Race: U Sex: F                                                                |
+Narrative:
+           Subject parked off road just east of Pine Cobble Rd. Stated                       |
+.           her boyfriend was collecting his minnow trap from river.
+Officer observed boyfriend crossing tracks with minnow trap                       |
+19-126         2044    Initiated - SUSPICIOUS MOTOR VEHICLE        LOG ENTRY REQUEST                 :
+Call Taker:    PATROL KEVIN P GARNER
+Location/Address:    [WEA 2102] MAIN ST
+      Unit:    34
+                                             Arvd-20:48:57 Clrd-20:49:39
+   Vehicle:    BLU 2001 VOLK JETTA Reg: PC MA 3FW666 VIN: 3VWSK69M01M116807
+_ Operator:    KOCSIS, MADELYN S @ 13 HALL ST - WILLIAMSTOWN, MA 01267-2509
+oe           Race: W Sex: F
+;     Owner:    KOCSIS, MADELYN S @ 13 HALL ST ~ WILLIAMSTOWN, MA 01267-2509
+               Race: W Sex: F
+Narrative:
+Subject said her friend needed quiet place to talk. Advised
+them about cemetery hours, sent on their way
+19-129 |       2234    Phone - WELL BEING CHECK                     SERVICES RENDERED
+Call Taker:    DISPATCHER WILLIAM C JENNINGS JR
+Location/Address:    [WIA 1848] TORREY WOODS RD
+:     Unit:    31
+Disp-22:34:30 Enrt-22:34:36 Arvd-22:39:48 Clrd-22:57:19
+: Narrative:
+           MSP requesting a well being check @ location. Female party
+           there is very upset due to earlier accident involving a
+           family member.
+Narrative:
+ came to the home to stay with ig
+:
+|                                                                             :
+         For Date: 01/04/2019 - Friday
+|          19-132         0013    Initiated - MOTOR VEHICLE STOP               CITATION - WARNING
+.                 Call Taker:    PATROLMAN SCOTT SKORUPSKI
+            Location/Address:;    WATER ST
+                 :      Unit:    32
+                                             Arvd-00:13:51 Clrd-00:20:16
+|                     Vehicle:    WHI 2013 TOYT 4D Reg: PC VF HKM828 VIN: 2T1LBU4RE2DC114845
+                    Operator:    GIBBS, MICHAEL A @ 110 GAGE ST - BENNINGTON, VT 05201
+               Race: W Sex: M
+           Refer To Citation:    T1400536
+:     Owner:    GIBBS, MICHAEL A @ 110 GAGE ST - BENNINGTON, VT 05201
+               Race: W Sex: M
+19-132         0051    911 - 9-1-1 HANG UP CALL                     SERVICES RENDERED
+Call Taker:    PATROL KALVIN DZTEDZIAK
+Location/Address:    [WIA 61] MAIN ST
+| Narrative:
+.            Upon answering 911 call dispatch was placed on hold. 911
+.            mapping system placed call lecation at 880 Main St, Williams
+            College Hopkins Hall. Dispatch contacted Williams College
+Security who stated they received a emergency call from 53
+Hoxsey St, Williams College Milham House, and have sent
+            security officers to investigate.
+Minutes later Williams College Security informed dispatch
+            that security officers checked out location of emergency
+            call. False Alarm, All clear at this time.
+19-134         0513    Initiated - PARKING CHECK                    SERVICES RENDERED
+‘Call Taker:    PATROLMAN SCOTT SKORUPSKI
+Location/Address:    [WIA 249] NORTH ST
+Unit:    32
+                                             Arvd-05:13:22 Clrd-05:13:28
+19-135 |       0655    Initiated - TRAFFIC CONTROL.                 SERVICES RENDERED
+‘Call Taker:    PATROLMAN MICHAEL J ZIEMBA Jr
+Location/Address:    [WIA 225] COLD SPRING RD
+      Unit:    37K
+.                           Arvd-06:55:39 Clrd-07:33:12
+19-136 —       0737    Initiated - TRAFFIC CONTROL                 SERVICES RENDERED
+Call Taker:    PATROLMAN MICHAEL J ZIEMBA Jr                                                  |
+Location/Address:    GALE RD
+Unit:    37K
+.                                             Arvd-07:38:10 Clird-08:05:50
+      Unit:    31
+Disp-15:10:39 Enrt-15:10:45 Arvd-15:11:39 Clrd-15:23;41                     |
+19-137         O815    Initiated - TRAFFIC CONTROL                  SERVICES RENDERED
+Call Taker:    PATROLMAN MICHAEL J ZIEMBA Jr
+Location/Address:    {WIA 333] CHURCH ST         :
+      Unit:    37K
+Arvd-08:15:32 Clrd-08:36:52
+19-138         0820    Initiated - TRAFFIC CONTROL                 SERVICES RENDERED                 .
+Call Taker:    SERGEANT SCOTT E MCGOWAN
+Location/Address:    COLE AVE
+.     Unit:    30
+:                                             Arvd-08:20:29 Clrd-08:33:29                     |
+     Unit:    38                                                                           :
+              Disp-15:07:52 Enrt-15:07:57 Arvd-15:12:56 Clrd-15:25;:05
+19-140 —       0904    Initiated - BUILDING CHECK                   BULLDING CHECKED/ SECURED
+Call Taker:    PATROLMAN MICHAEL J ZIEMBA Jr
+Location/Address:    {WIA 1832] NORTH HOOSAC RD
+Unit:    37K
+:                                             Arvd-09:04:24 Clrd-09:05:07
+' Narrative:
+           checked                               a
+Narrative:
+            Checked S-4 18:47
+' Narrative:
+:           Checked S-4 22:00
+Narrative:                                                                                   {
+Checked 0014                                                                    §
+_ Narrative:                                                                                   |
+Checked 0307
+18-14] =       0907    Initiated - BUILDING CHECK                  BULLDING CHECKED /SECURED          ,
+Call Taker:    PATROLMAN MICHAEL J ZIEMBA Jr                                               |
+Location/Address:    NORTH HOOSAC RD                                                                |
+Unit:    37K                                                                        |
+|                                          Arvd-09:07:18 Clrd-09:07:30                     |
+Narrative:                                                                                   |
+CHECKED
+. Narrative:                                                                                   .
+,           Checked 0318                                                                    :
+19-142      0911    Initiated - SUSPICIOUS ACTIVITY             SERVICES RENDERED                 |
+Call Taker:    SERGEANT SCOTT E MCGOWAN                                                       :
+Location/Address:    {WIA 331] MAIN ST
+,     Unit:    30                                                                           :
+                                            Arvd-09:12:18 Clrd-09:16:35
+Refer To Incident:    19-5-OF                                                                  .
+19-143.      0915    Initiated - BUILDING CHECK                  BUILDING CHECKED/SECURED
+Call Taker:    PATROLMAN MICHAEL J ZIEMBA Jr
+Location/Address:    LONGVIEW ‘TER
+     Unit:    37K
+Arvd-09:15:27 Clrd-09:15:42
+Narrative:
+           checked                                                                      -
+‘Narrative:
+           Checked Area.
+19-144         6919    Initiated - BUILDING CHECK                  BUILDING CHECKED/SECURED
+Call Taker:    PATROLMAN MICHAEL J ZIEMBA dr
+Location/Address:    PRENIER AVE
+     Unit:    37K
+Arvd-09:19:46 Clrd-09:19:54
+Narrative:
+.           checked
+Narrative:                                                              .
+Checked Area.
+19-145 |       0920    Initiated - BUILDING CHECK                   BUILDING CHECKED/SECURED
+Call Taker:    PATROLMAN MICHAEL J ZIEMBA Jr
+Location/Address:    HARWOOD ST
+      Unit:    37K
+,                                             Arvd-09:20:39 Cird-09:20:49
+ Narrative:
+.            chrcked
+_ Narrative:
+Checked Area.
+19-148 —       1043    Phone - ASSIST OTHER AGENCY - POLICE        UNABLE TO LOCATE
+Call Taker:    PATROL DAVID JENNINGS, D
+Location/Address:    SIMONDS RD + SAND SPRINGS RD
+      Unit:    30
+               Disp-10:50:59                 Arvd~10:51:54 Clrd-11:24:21
+,      Unit:    37K
+Disp-10:50:59 Enrt-10:51:16                 Cird-11:11:18
+' Narrative:
+            Reports a silver chevy pick up with a brake light out cT
+            plate C1i73880, unknown direction of travel. Believes the
+            parties in the vehicle are from North Adams. Visible of no
+            less than 4 blocks of heroin in the headliner of the vehicle
+when looking through the windshield.
+19-147         1045    Initiated - BUILDING CHECK                   BUILDING CHECKED/SECURED
+Call Taker:    PATROLMAN MICHAEL J ZIEMBA Jr
+Location/Address:    [WIA 333] CHURCH ST
+      Unit:    37K
+Arvd-10:45:44 Clrd-10:46:21
+| Narrative:
+.           checked
+19-149 .       1119   Initiated - PARKING CHECK                    SERVICES RENDERED                 :
+Call Taker:    PATROLMAN MICHAEL J ZIEMBA Jr
+Location/Address:    PARK ST
+      Unit:    37K                                         .
+.                                            Arvd-11:19:28 Clrd-11:23:28
+19-150         1124    Initiated - PARKING CHECK                    SERVICES RENDERED                 .
+Call Taker:    PATROLMAN MICHAEL J ZIEMBA Jr                                                  |
+Location/Address:   SPRING ST
+Unit:    37K                                                            2
+                                             Arvd-13:25:05 Clrd-11:30:13                     |
+19-153 |       1258    Walk-In - VIOLATION R O                     CRIMINAL COMPLAINT
+Call Taker:    PATROL DAVID JENNINGS, D
+Location/Address:    [WIA 249] NORTH ST
+.     Unit:    39                                                                             :
+              Disp-13:01:24                 Arvd-13:01:34 Clird-14:14:56
+     Unit:    37K
+              Disp-13:01:24                 Arvd-13:01:312 Clrd-13:08:33
+_ Vehicle:    WHI 2016 DODG PK 1500 Reg: PC MA 6MZ322 VIN: 1C6RR7LT6GS123772
+_ Operator:
+Race: W Sex: M
+Owner:
+              Race; W Sex: M
+Narrative:
+           Party in the station to report her ex-boyfriend violated the
+.            RO he just received today.
+Pe for arrest.
+            NAPD checking mothers residents. NAPD reports the vehicle is
+located at his mother's but he is not
+            there.
+            Party was arrested by NAPD and transported to BCHOC. The
+victim was contacted and advised. $-4
+Refer To Summons:    19-2-AR                                                                  |
+Summons:    BOLAND, JAMES R
+Address:    431 RD WEST   ADAMS, MA
+      Age:    34
+   Charges:    VIOLATION OF A PROTECTIVE ORDER
+19-154 |       1329    Initiated ~ BUILDING CHECK                   BUILDING CHECKED/SECURED
+Call Taker:    PATROLMAN MICHAEL J ZIEMBA Jr
+Location/Address:    {WIA 225] COLD SPRING RD
+Unit:    37K                                                                            .
+,                                             Arvd-13:29:19 Clrd=13:30:07
+19-155       1333    Initiated - BUILDING CHECK               BUILDING CHECKED / SECURED          |
+Call Taker:    PATROLMAN MICHAEL J ZIEMBA Jr                                                  |
+Location/Address:    COLD SPRING RD
+      Unit;    37K
+Arvd-13:33:17 Clrd-13:33:40                     :
+. Narrative:
+            Checked S-4 18:17
+- Narrative;                                                                                   )
+Checked Area.                                                                   2
+19-156       1335    911 - 9-1-1 WRONG NUMBER                     SERVICES RENDERED
+Call Taker:    PATROL DAVID JENNINGS, D
+Narrative:
+Telemarketer,
+19-157         1337    Initiated - BUILDING CHECK                   BUILDING CHECKED/SECURED          |
+Call Taker:    PATROLMAN MICHAEL J ZIEMBA Jr
+Location/Address:    HAWTHORNE RD
+     Unit:    37K.                                                                         |
+|                                            Arvd-13:37:44 Clrd-13:37:51                     |
+Narrative:                                                                                 :
+:           Checked S-4 18:13                                                               |
+Narrative:                                                                                      1
+Checked Area.                                                                   {
+«19-158      1344 Initiated - BUILDING CHECK                  BUILDING CHECKED/SECURED          |
+Call Taker:    PATROLMAN MICHAEL J ZIEMBA Jr
+Location/Address:    PETERSBURG RD
+     Unit:    37K                                                                          |
+                                            Arvd-13:44:33 Clrd-13:44:54
+Narrative:                                                                                 .
+.           Checked S-4 18:37
+Narrative:                                                                                    .
+Checked 0216
+|
+:          19-160 |       1435    Phone - ILLEGAL DUMPING                      LOG ENTRY REQUEST
+|                 Call Taker:    PATROL DAVID JENNINGS, D
+7            Location/Address:    [WEA 330] MAIN ST
+   Vehicle:    BLK 2008 NISS 2D ALTIMA Reg: PC NY HNZ2137 VIN: IN4BL24E08C185667
+:                 :     Owner:    CARRERA-CORDERO, E M @ 18 EASTGATE RD - MASSAPEQUA PK, NY 11762
+               Race: U Sex: F
+|                   Narrative:
+:            Manager reports a NY HNZ2137 threw a trash bag in their
+:            dumpster and would like it logged.
+19-161 .       1449    Phone - ALARM ~ BURGLAR                     ALARM FALSE
+‘Call Taker:    PATROL DAVID JENNINGS, D
+Location/Address:    [WIA 2048} BAXTER RD
+Unit:       30.
+Disp-14:50:46 Enrt-14:51:11 Arvd-14:52:47 Clrd-14:56:31
+. Narrative:
+Entry/exit front deor, there is someone on sight and gave
+            wrong pass code.
+. Narrative:
+            No one at the property upon arrival. No answer after
+knocking on the door several times. Residence checked and
+            secured, unknown reason for activation.
+19-163 |       1524    Initiated - PARKING CHECK                    SERVICES RENDERED
+Call Taker:    SERGEANT DAVID R LEMIEUX,
+Location/Address:    PARK ST
+      Unit:    31
+:                                             Arvd-15:25:08 Clrd-15:29:54
+19-164         1525    Initiated - PARKING CHECK                    SERVICES RENDERED
+Cali Taker:    PATROL JOHN J MCCONNELL JR
+Location/Address:    SPRING ST
+.      Unit:    38
+                                             Arvd-15:25:57 Clrd-15:33:24
+18-165 |       1605    Walk-In - LICENSE TO CARRY                   PERMIT ISSUED
+Call Taker:    DISPATCHER LAURIE TUPER
+Location/Address:    [WIA 249] NORTH ST
+      Unit:    31
+Disp-16:05:39                 Arvd-16:05:44 Clrd-16:26:33                     .
+Narrative:
+            Party in for LTC.
+19-166 .       1615   Phone - ANIMAL CONTROL                      SERVICES RENDERED
+Call Taker:    DISPATCHER LAURIE TUPER                                                        |
+Location/Address:    [WIA 1961] GREEN RIVER RD
+Unit:    31                                                                           |
+Disp-16:26:49 Enrt-16:26:54 Arvd-16:33:31  Cird-16:51:36                     :
+| Narrative:
+Reports a dead buck in an ajoining driveway.
+Removed and disposed of. S-4
+19-168       1652    Initiated - MOTOR VEHICLE STOP               CITATION - WARNING
+Call Taker:    PATROL JOHN J MCCONNELL JR
+Location/Address:    WATER ST
+Unit;    38
+:                                            Arvd-16:52:02 Clrd~-17:01:14
+.  Vehicle:    BRO 2005 NISS SE ALTIMA  Reg: PC MA 3CN43]. VIN: IN4AR121D15C106682
+. Operator:    SCANLON, CHRISTOPHER R JR @ 19 HILLSIDE ST Apt. #B - PITTSFIELD, MA
+01201 |.
+Race: W Sex: M
+Refer To Citation:    T1400610
+,     Owner:    SCANLON, CHRISTOPHER R JR @ 19 HILLSIDE ST Apt. #B ~ PITTSFIELD, MA
+01201-3205
+Race: U Sex: M
+19-171 |       L716    Phone - LARCENY                              LOG ENTRY REQUEST
+Call Taker:    DISPATCHER LAURIE TUPER
+Location/Address:    (WIA 225] COLD SPRING RD
+ Narrative:
+Caller reports the parents of [RRR wanted him to
+            report a larceny of $70.00 and 2 $50 gift cards from the gym
+            locker room on 1/2/19. Party just wanted it logged at this
+            time. Spoke with S-4 and will follow up with 37K on monday
+            when he is at his desk with more info on student/parents.
+            NOTHING IN IMC OR REGISTRY FOR VICTIM 5-4
+19-170    1722    Initiated - MOTOR VEHICLE STOP               CITATION - WARNING
+Call Taker:    PATROL JOHN J MCCONNELL JR
+Location/Address:    MAIN ST
+      Unit:    38
+                                             Arvd-17:22:53 Clrd-17:28:27
+   Vehicle;    BLK 2019 NISS ROGUE Reg: PC MA 8WY549 VIN: KNMAT2MV1KP500711
+.  Operator:    ALCORN, PETER SCOTT @ 316 ROSLYN RD - RICHMOND, VA 23226                       |
+Race: W Sex: M
+Refer To Citation:    T1400611
+     Owner:    EAN HOLDINGS LLC @ 14002 EAST 21ST ST ST Apt. #1500 - TULSA, OK
+74134-0000
+19-172         1730    Initiated - PARKING CHECK                    NO ACTION REQUIRED
+Call Taker:    PATROL JOHN J MCCONNELL JR
+Location/Address:    SCHOOL ST
+      Unit:    38
+                                             Arvd-17:30:55 Clrd-17:32:44
+19-173         1737    Initiated - BUILDING CHECK                   BUILDING CHECKED/SECURED
+Call Taker:    PATROL JOHN J MCCONNELL JR                                                     ;
+Location/Address:    {WIA 190] MAIN ST                                                              ,
+Unit:    38
+                                         Arvd-17:38:12 Clrd-17:38:22
+- Narrative:                                                                                   |
+|           Checked 0126
+19-174      1752    Initiated - MOTOR VEHICLE STOP             CITATION - WARNING               :
+Call Taker:    PATROL JOHN J MCCONNELL JR
+Location/Address:    NORTH HOOSAC RD
+     Unit:    38
+                                            Arvd-17:52:47 Clrd-18:00:16                     ;
+  Vehicle:    RED 2012 SUBA ST IMPREZ  Reg: PC MA 2PRI98. VIN: JFLGPAAG7CG205285
+' Operator:    MALLOY, KATELYN M @ 28 SUMMIT AVE - NORTH ADAMS, MA 01247-4346
+Race: W Sex: F
+Refer To Citation:    T1400612
+:    Owner:    MALLOY, KATELYN M @ 28 SUMMIT AVE - NORTH ADAMS, MA 01247-4346
+Race: W Sex: F
+LO-176       1843    Initiated - BUILDING CHECK                   BUILDING CHECKED/SECURED
+Call Taker:    SERGEANT DAVID R LEMIEUX
+Location/Address:    SIMONDS RD
+:     Unit:    31
+                                             Arvd-18:44:07 Clrd-18:46:37
+_ Narrative:
+:            Checked a311
+19-178 ©       2149    Initiated - SUSPICIOUS MOTOR VEHICLE        LOG ENTRY REQUEST
+Call Taker:    PATROL JOHN J MCCONNELL JR
+Location/Address:    {WIA 108] NEW ASHFORD RD
+Unit:    38
+Arvd-21:50:14 Clrd-21:50:31
+Vehicle:    BRO 2010 FORD SE FUSION  Reg: PC MA 239WAl VIN: 3FAHPOHA4AR316911
+Owner:    MCCOY, DOROTHY DUNCAN @ 1129 MASS AVE - N ADAMS, MA 01247-2259.
+Race: U0 Sex: F
+Narrative:
+Parked unoccupied.
+For Date: 01/05/2019 - Saturday                                .
+19-181       0187    Initiated - SUSPICIOUS MOTOR VEHICLE        BUILDING CHECKED/SECURED
+‘Call Taker:    PATROLMAN SCOTT SKORUPSKT                                                      |
+Location/Address:    (WIA 225] COLD SPRING RD
+      Unit:    32
+.                                                              Arvd-01:59:15 Clrd-02:00:27
+Vehicle:    RED 2013 SUBA ST OUTBAC Reg: PC MA 3607ZV VIN: 4S4BRBCC8D3320926
+Owner:    ART, JAMES B @ 40 MT. WILLIAMS DR - WILLIAMSTOWN, MA 01267
+‘               Race: W Sex: M
+- Narrative:
+M/V parked in the parking lot, unoccupied.
+19-182 .       0333    Initiated - PARKING CHECK                    SERVICES RENDERED
+Call Taker:    PATROL CRAIG A EICHHAMMER                                                      |
+Location/Address:;    {WIA 249] NORTH ST                                                             ;
+      Unit:    32                                                                             :
+|                                             Arvd-03:34:09 Clrd-03:34:47                     :
+19-183 _       0541    initiated - ROAD CONDITIONS                  SERVICES RENDERED                 |
+‘Call Taker:    PATROLMAN SCOTT SKORUPSKI
+Location/Address:    BEE HILL RD
+      Unit:    32
+                                             Arvd-05:42:04 Clrd-05:44:26
+Narrative:
+:            Dirt roads are getting slick, Dispatch to notify DPW.
+. Narrative:
+DPW notified.
+- 19-185         0829    Initiated - BUILDING CHECK                   BUILDING CHECKED/SECURED
+Call Taker:    PATROL DAVID JENNINGS, D
+Location/Address:    SIMONDS RD
+     Unit:    34
+;                                            ArvG-08:29:53 Clrd-08:31:10
+Narrative:
+Checked S~4 21:45
+Narrative:
+           Checked 0308
+19-186 —       0831    Initiated - BUILDING CHECK                  ‘BUILDING CHECKED/SECURED
+Call Taker:    PATROL DAVID JENNINGS, D
+Location/Address:    [WIA 1832] NORTH HOOSAC RD
+      Unit:    34
+                                             Arvd-08:32:04 Clrd-08:32:54
+_ Narrative:                                                             ,
+            checked
+' Narrative:
+            Checked S-4 19:26
+. Narrative:
+            Checked S-4 21:42
+| Narrative:
+            Checked 2338
+Narrative:
+Checked 0303                                  ,
+19-187 —       0834    Initiated - BUILDING CHECK         BUILDING CHECKED/SECURED
+Call Taker:    PATROL DAVID JENNINGS, D
+Location/Address:    NORTH HOOSAC RD
+      Unit:    34
+,                                             Arvd-08:34:35 Clird-08:35:24
+Narrative:                                                                                   |
+,            Checked S-4 19:22
+Narrative:                                                                                   |
+Checked 0315
+19-188 .       0842    initiated - BUILDING CHECK                  BUILDING CHECKED/SECURED
+Call Taker:    PATROL DAVID JENNINGS, D
+Location/Address:    LONGVIEW TER
+:      Unit:    34
+                                             Arvd-08:42:33 Clrd-08:42:48                     |
+| Narrative:                                   .
+checked
+Narrative:
+Checked Area.                                                                     |
+|                                                        2
+19-189         0845    Initiated - BUILDING CHECR                   BUILDING CHECKED/SECURED
+Call Taker: | PATROL DAVID JENNINGS, D
+Location/Address:    FRENIER AVE
+Unit:    34
+Arvd-08:45:23 Clrd-08:45:35
+' Narrative:
+checked
+- Narrative:
+           Checked Area.       .
+19-190 .       0845    Initiated ~ BUILDING CHECK                   BUILDING CHECKED / SECURED
+Call Taker:    PATROL DAVID JENNINGS, D
+Location/Address:    HARWOOD ST
+7         Unit;    34
+|                                                               Arvd-08:46:05 Clrd-08:46:28
+|                   Narrative:
+:            checked
+. Narrative:
+            Checked Area.
+19-191         0847    Initiated - BUILDING CHECK                   BUILDING CHECKED/SECURED
+Call Taker:    PATROL DAVID JENNINGS, D
+Location/Address:;    MAIN ST
+      Unit:    34
+Arvd~08:47:48 Clrd-08:48:21
+Narrative:
+            checked
+. Narrative:
+Checked 0112
+19-192 ©       0853    Other ~ PUBLIC RECORDS REQUEST               SERVICES RENDERED
+-Call Taker:    CHIEF KYLE J JOHNSON
+Narrative:
+Requesting 18-223-Ac / emailed
+19-193 ©       0904    Initiated - PARKING CHECK                    SERVICES RENDERED
+-Call Taker:    PATROL DAVID JENNINGS, D
+Location/Address:    PARK ST
+      Unit:    34
+Arvd-09:04:14 Clrd-09:06:03
+19-194       0913    Initiated - MOTOR VEHICLE STOP               CITATION ~ WARNING
+Call Taker:    PATROL DAVID JENNINGS, D
+Location/Address:    NORTH HOOSAC RD
+      Unit:    34
+                                             Arvd-09:13:35 Clrd~-09:32:49
+   Vehicle:    RED 2013 NISS SE SENTRA Reg: PC MA 3WVR60 VIN: 3NIAB7AP6DL779421
+     Towed:    For: Expired Registration By: RONS AUTO REPAIR To: RONS TOWING
+ Operator:    KOCSIS, ALICIA A @ 184 SAND SPRINGS RD - WILLIAMSTOWN, MA 01267-2248           |
+Race: W Sex: F                                                                |
+Refer To Citation:    T1400329                                                                       .
+Owner:    KOCSIS, ALICIA A @ 184 SAND SPRINGS RD - WILLIAMSTOWN, MA 01267-2248
+Race: W Sex: F
+Narrative:                                                                                   ,
+            0916 Ron's requested/responding
+19-195 —       0933    initiated - ROAD CONDITIONS                  LOG ENTRY REQUEST
+Call Taker:    CHIEF KYLE J JOHNSON
+Location/Address:    HOXSEY ST
+.      Unit:    DETL
+                                    Arvd-09:33:00 Clrd@-11:20:43
+       Narrative:
+            Closed due to B. Gas construction. Access to Spencer Dorm
+            (973 Main St)& 23 Hoxsey from Main Street; 29 Hoxsey & above
+access from Walden St.
+19-196 —       0338    Initiated - MOTOR VEHICLE STOP               CITATION ~- WARNING
+Call Taker:    PATROL DAVID JENNINGS, D
+Location/Address:    SAND SPRINGS RD
+Unit:   34
+Arvd-09:38:16 Clrd-09:46:27                     |
+Vehicle:    GRY 2010 SUBA FOREST  Reg: PC MA 5WZ448 VIN: JF2SH6ACTAG741253                |
+Operator:    TUREK, JENNIFER LYNN @ 36 HALEY ST - WILLIAMSTOWN, MA 01267
+               Race: W Sex: F
+Refer To Citation:    T1400330
+     Owner:    TUREK, DANIEL B @ 36 HALEY ST - WILLIAMSTOWN, MA 01267
+Race: W Sex: M
+19-197         6955    Initiated - PARKING CHECK                    SERVICES RENDERED
+Call Taker:    PATROL DAVID JENNINGS, D
+Location/Address:    SPRING ST
+Unit:    34
+Arvd-09:55:57 Clrd-10:01:20
+19-198 |       1004    Initiated - BUILDING CHECK                   BUILDING CHECKED/SECURED
+Cail Taker:    PATROL DAVID JENNINGS, D                                                       |
+Location/Address:    HAWTHORNE. RD
+.      Unit:    34                                                                             |
+                                             Arvd-10:04:14 Clrd-10:04:38                     .
+Narrative:                                                                                   :
+.           checked
+. Narrative:                                                                                   }
+           Checked Area.                                                                     ,
+19-202 |       1101    Initiated - LIQUOR LAW VIOLATION             SERVICES RENDERED
+Call Taker:    CHIEF KYLE J JOHNSON
+Location/Address:    {WIA 331] MAIN ST
+.      Unit:    37K
+                                             Arvd-11:01:00 Clrd-11:05:27
+. Narrative:
+           Ail alcohol being removed from public view due to lapse in
+liquor license. Staff advised of consequences of future
+           sales without a valid license.
+| Narrative:                                              :
+           Clerk closing the store to go get material to cover coolers.
+.           Advised we will check back within the hour for compliance.
+_ Narrative:
+           Coolers 1-S with alcohol are covered as required at this
+           time,
+19-203         1148   Initiated - BUILDING CHECK                   BUILDING CHECKED/ SECURED
+Call Taker:    PATROL DAVID JENNINGS, D
+Location/Address:    COLD SPRING RD
+  - Unit:    34
+.                                            Arvd~-11:48:23 Clrd-11:49:02
+Narrative:                 ,
+.           checked
+'Narrative:
+           Checked Area.
+19-204      1148    Phone - WELL BEING CHECK                     INVESTIGATED / REPORT
+TAKEN                                                          :
+Call Taker:    CHIEF KYLE J JOHNSON
+Location/Addréss:    HENDERSON RD
+     Unit:    34
+               Disp-11:51:43 Enrt-11:51:51 Arvd-11:54:13 Clrd-11:56:09
+Unit:    37K
+               Disp-11:51:43 Enrt-11:51:54 Arvd-11:56:40 Clrd-12:11:23
+:      Unit:    34
+,               Disp-11:56:15 Enrt-11:56:15 Arvd-11:56:59 Clrd-12:11:42
+' Narrative:
+           Brien Center requests check through NAPD for
+based on some comments she made last night and the meéting |
+with the Brien Center she missed this morning.
+Refer To Incident:    19-7-OF
+19-205         1151    Phone - PARKING COMPLAINT                    SERVICES RENDERED            ,
+Call Taker:    CHIEF KYLE J JOHNSON
+Location/Address:    SPRING ST
+      Unit:    34                               .
+               Disp-12:12:17 Enrt~-12:12:39 Arvd-12:17:48 Clrd-12:40:35
+_ Narrative:
+Reports buses have been parked on the street since before
+0900 and wishes them ticketed. Advised #34 to check when
+.           free.
+19-209 —       1458    Walk-In - ANIMAL CONTROL                     SERVICES RENDERED                 |
+Call Taker:    PATROL KALVIN DZITEDZIAK
+Location/Address:    NORTH HOOSAC RD + COLE AVE
+- Narrative:
+            CP at station to drop off dog she found in the area of North
+Hoosac Road/ Cole Ave.
+            24 pet watch contacted.
+1525+ Owner contacted, message left on answering machine.
+            1532- Qwner informed dispatch that she has no vehicle and is                      .
+,            unable to retrieve dog. Will attempt to find a ride for dog.
+.            1551- Owner unable to find ride. Will rétrievé dog tomorrow
+            morning 01/06/2019.                                                               |
+1630- Dog released to owners friend.                                              ,
+19-210         1505    Initiated - PARKING CHECK                    SERVICES RENDERED
+Call Taker:    PATROL JOHN J MCCONNELL JR
+Location/Address:    SPRING ST                                                                |
+Unit:    38
+.                                             Arvd-15:06:18 Clrd-15:15:26
+19-211 |.       1507    Initiated ~- PARKING CHECK                    SERVICES RENDERED
+Call Taker:    SERGEANT DAVID R LEMIEUX
+Location/Address:    PARK ST
+Unit:    31
+:                                           Arvd-15:07:25 Clrd-15:10:21
+19-212       1537    Radio - B.O.L.0.                             PATROL ADVISED
+Call Taker:    PATROL KALVIN DZIEDZIAK
+_ Lecation:     {WIA 249] TOWN OF WILLIAMSTOWN
+     Unit:    31
+              Disp-15:43:06                                Clrd-15:43:35
+     Unit:    38
+.              Disp-15:43:06             Cird-15:43:35
+:  Vehicle:    GRY 2003 JEEP GRACHE  Reg: PC MA 2WS228 VIN; 134GW48S930517806
+Owner :    MAXWELL, HEATH BRANDON @ 83 DEPOT ST - CHESHIRE, MA 01225-8903
+              Race: U Sex: M
+Narrative:
+Bolo out of Cheshire (MSP). Male Party involved in domestic.
+:           If seen stop and hold, contact MSP cheshire. PC for arrest.
+Narrative:
+Party not at the White Oaks address. MSP advised.
+19-213         1636    Initiated - MOTOR VEHICLE STOP               CITATION - WARNING
+Call Taker:    PATROL JOHN J MCCONNELL UR
+Location/Address:    COLD SPRING RD
+Unit:    38
+Arvd-16:36:59 Clrd-16:40:28
+Vehicle:    BLK 2006 CHEV CO MONCAR Reg: PC MA 7MB699 VIN: 2G1WL15C069326432
+ Operator:    MUCCI, RAYMOND ADAM @ 52 E QUINCY ST - NORTH ADAMS, MA 01247-4309
+            Race: W Sex: M
+Refer To Citation:    T1400613
+Owner:    MUCCTI, RAYMOND ADAM @ 52 E QUINCY ST - NORTH ADAMS, MA 01247-4309
+           Race: W Sex: M
+19-215 |       1730    Phone ~ ASSIST OTHER AGENCY - POLICE        UNABLE TO LOCATE
+‘Call Taker:    PATROL KALVIN DZITEDZIAK
+Location/Address:    WHITE OAKS RD
+Unit:    31
+:               Disp-18:56:28 Enrt-18:56:56 Arvd-19:09:07 Clrd-19:18:54
+unit:    38
+Disp-18:56:28 Emrt-18:58:33 Arvd-19:09:12 Clrd-19:17:13
+Vehicle:    GRY 2003 JEEP GRACHE Reg: PC MA 2WS228 VIN: 1734GW48S93C517806
+Operator:    MAXWELL, HEATH BRANDON @ 83 DEPOT ST - CHESHIRE, MA 01225-8903                 2
+           Race: U Sex: M                                                |
+Owner ;    MAXWELL, HEATH BRANDON @ 83 DEPOT ST - CHESHIRE, MA 01225-8903
+Race: U Sex: M                                                }
+Narrative:
+MSP requesting check of residence for 3.
+Narrative:
+Party not at the White Oaks address. MSP notified.
+:          19-217         2006    Initiated - MOTOR VEHICLE STOP               CITATION - WARNING
+                 Call Taker:    PATROL JOHN J MCCONNELL JR
+.       Location/Address:    COLE AVE
+      Unit:    38
+Arvd-20:06:19 Clrd-20:17:08
+   Vehicle:    BLK 2015 JEEP Reg: PC FL S62WXH VIN: 1C4RJFBTSFC102075
+  Operator:    TAMPOST, JACOB B @ 216 E KELLER CT - HERNANDO, FL 34442-0000
+Race: W Sex: M
+Refer To Citation:    T1400614
+     Owner:    TAMPOSI, STEPHEN @ 216 KELLER CT - HERNANDO, FL 34442
+           Race: U Sex: M
+19-218        2100    Phone ~ DISTURBANCE                         TAKEN/REFERRED TO OTHER
+AGENCY
+Call Taker:    PATROL KALVIN DZ2TED2TAK                                                        |
+Location/Address:    {WIA 151] COLD SPRING RD
+Narrative:
+          Cp reports she was just assaulted by another resident. CP
+states she was playing cards with some friends of hers (near                   ,
+|         the nurses station) when another resident ((RBRRRRM, aka
+          fe) «came into the room and changed the station on the TV.
+CP claims she then went to inform [MM that they were
+watching the TV and proceeded to change the station back. CP
+was then slapped in the face by ERB.
+          2102- Sweet Brook advised.                                                  |
+19-220         2225    Phone - ASSIST OTHER AGENCY - UTILITY       SERVICES RENDERED
+Cail Taker:    PATROL KALVIN DZTED2IAK
+Location/Address:    (WIA 1855} MAIN sT
+     Unit:    38
+|
+                |
+|               Disp-22:33:02 Enrt-22:35:24 Arvd-22:40:48 Clrd-22:42:51
+:                   Narrative:
+|                              CP ,who wishes to stay anonymous, reports that a telephone
+|            pole located in the area of Dollar General has a box on it
+|                              that it open and wires are accessible. Pole is said to
+|                              located on the eastbound side of travel.
+            2252~ Contact attempted with Spectrum, unsuccessful
+                 - Narrative:
+            Pole #100/8 Main St. Box looks to belong to Cable Co. Box
+was closed Cable Co .to bé advised.
+19-221 |       2338    Initiated - MOTOR VEHICLE STOP               CITATION - WARNING
+‘Call Taker:    PATROLMAN SCOTT SKORUPSKI
+Location/Address:    HOXSEY ST
+.      Unit:    32
+                                             Arvd~23:38:15 Clrd-23:43:49
+Vehicle:    BRO 2004 GMC ENVOY Reg: PC MA 7LFT70 VIN: 1GKDT13S042375090
+_ Operator:    DEGRAFF, ELIZABETH M @ 36 BURT ST - ADAMS, MA 01220-1446
+,               Race: W Sex: F
+Refer To Citation:    T1400537
+Owner:    DEGRAFF, ELIZABETH M @ 36 BURT ST - ADAMS, MA 01220-1446
+Race: W Sex: F
+19-222 .       2356    Initiated - MOTOR VEHICLE STOP               CITATION - WARNING
+Call Taker:    PATROL CRAIG A HICHHAMMER
+Location/Address:    MAIN ST
+:      Unit:    32
+.                               Arvd-23:56:15 Clrd-01/06/2019 @
+00:01:00
+,   Vehicle:    BLK 2016 RAV4 Reg: PC MA 8NP499 VIN: 2T3BFREV7GW424961
+ Operator:    WALL, STEVEN M @ 6 MARLOW DR - PERU, MA 01235-9210
+               Race: U Sex: M
+Refer To Citation:    TO9Q5670
+     Owner:    WALL, STEVEN M @ 6 MARLOW DR - PERU, MA 01235-9210
+.               Race: U Sex: M
+For Date: 01/06/2019 - Sunday
+19-223         0016    Phone - NOISE COMPLAINT                      SERVICES RENDERED
+Call Taker:    PATROL ANTHONY M DUPRAT                                                        |
+Location/Address:    [WIA $5] COLD SPRING RD                                                        |
+Unit:    31
+Disp-00:20:08 Enrt-00:20:53 Arvd-00:24:03 Clrd-00:31:24
+      Unit:    32
+Disp-00:20:08 Enrt-00:20:41 Arvd-00:23:29 Clrd-00:31:34
+Narrative:
+            CP reports noise complaint coming from the area of 1896
+.            House. Cp reports she can hear people outside yelling.
+- Narrative:
+Approximately forty students outside waiting for the bus to
+pick them up from a birthday party at the restaurant. Upon
+           arrival bus was also arriving to pick students up.
+           Restaurant owners also advised of the complaint, will keep
+          students inside while waiting for the bus to leave,
+19-225         0337    Initiated - PARKING CHECK                    SERVICES RENDERED
+Call Taker:    PATROL CRAIG A EICHHAMMER
+Location/Address:    [WIA 249] NORTH ST
+     Unit:    31
+                                             Arvd-03:38:03 Clird-03:38:35
+          19-226 ©       0355    Phone - ROAD CONDITIONS                      SERVICES RENDERED
+|                  Call Taker:    PATROL ANTHONY M DUPRAT
+            Location/Address:    {WIA 2100] HENDERSON RD
+                        Unit:    32
+:                 ;               Disp~04:00:16                 Arvd-04:06:34 Clrd-07:10:05
+Unit:    31
+Disp-04:15:56  Enxt-04:17:30 Arvd-04:23:05 Clrd-07:08;02
+Unit:    36
+Arvd-07:09:04 Clrd-607:39:51
+' Narrative:
+            CP reports possible tree down, CP reports power lost.
+' Narrative:
+            32 reports top half of pole broken dispatch to notify
+.            National Grid.
+Narrative:
+National Grid Notified, will call back with ETA.
+. Narrative:
+            National Grid on scene.
+Narrative:
+Verizon on scene.
+- Narrative:
+            Road open.
+19-227 .       0741    Initiated - BUILDING CHECK                   BUILDING CHECKED/ SECURED
+Call Taker:    PATROL TANIA HERNANDEZ
+           Location/Address:    NORTH HOOSAC RD
+Unit:    36
+                                             Arvd-07;:41:40 Clrd-07:42:22
+Narrative:
+checked
+Narrative:
+            01/06/2019 2358 Checked S83
+19-228         0744    Initiated - BUILDING CHECK                  BUILDING CHECKED/ SECURED
+Call Taker:    PATROL TANIA HERNANDEZ
+Location/Address:    [WIA 1832] NORTH HOCOSAC RD
+:            Unit:        36
+Arvd-07:44:42 Clrd-07:45:55
+Narrative:
+           checked
+.           ' Narrative:                                                                                   |
+.            done
+ Narrative:
+            01/07/2019 0001 Checked $3                                         :
+- Narrative:
+.            01/07/2019 0437 Checked S3         .
+,                                                                                                                                                      2
+19-229 —       0747    Initiated - BUILDING CHECK                   BUILDING CHECKED/ SECURED          .
+Call Taker:    PATROL TANIA HERNANDE
+:            Location/Address:    SIMONDS RD
+:                        Unit:    36
+                :                                          Arvd~07:47:42 Clrd-07:48:37
+7                 . Narrative:
+|                             checked
+| Narrative:
+           done
+ Narrative:
+01/07/2019 0005 Checked $3
+13-230 -       0752    Initiated - BUILDING CHECK                   BUILDING CHECKED/SECURED
+Call Taker:    PATROL TANIA HERNANDEZ
+Location/Address:    HAWTHORNE RD
+      Unit:    36
+Arvd-07:52:47 Clrd-07:53:29
+Narrative ;
+            checked
+Narrative:
+Checked 0045
+19-2314 .       0756    Initiated - BUILDING CHECK                  BUILDING CHECKED/ SECURED
+Call Taker:    PATROL TANIA HERNANDEZ
+Location/Address:    COLD SPRING RD
+:      Unit:    36
+Arvd-07:57:215 Clrd-07:57:54
+Narrative:
+done
+| Narrative:
+Checked 0247
+19-232         0918    Initiated - BUILDING CHECK                  BUILDING CHECKED/SECURED
+Call Taker: SERGEANT SCOTT E MCGOWAN                                                    |
+Location/Address:    FRENIER AVE                                                                    :
+.      Unit:    30
+Arvd-09:18:37 Clrd-09:18:51
+Narrative:
+            checked                                                                           2
+Narrative:                                                                                   |
+Checked 0154
+19-233       6919    initiated - BUILDING CHECK                   BUILDING CHECKED/SECURED
+Call Taker:    SERGEANT SCOTT E MCGOWAN
+Location/Address:    HARWOCOD ST
+Unit:    30
+                                         Arvd~09:19:17 Clrd-09:19:34
+Narrative:               ,
+            checked
+| Narrative:
+           Checked 0156
+19-235 |       0939    Initiated - BULLDING CHECK                   BUILDING CHECKED/SECURED
+|
+|                Cail Taker:    SERGEANT SCOTT E MCGOWAN
+|             Location/Address:    LONGVIEW TER
+                        Unit:    30
+                                                       Arvd-09:39:34 Clrd-09:40;:39
+                   Narrative:
+                .            checked
+' Narrative:
+Checked 0102
+19-236 .        0950    Initiated - BUILDING CHECK                  BUILDING CHECKED/SECURED
+“Call Taker:    SERGEANT SCOTT E MCGOWAN
+Location/Address:    MAIN ST
+Unit:    30
+                                             Arvd-09:50:18 Clrd-09:52:34
+Narrative:
+1510 - checked
+. Narrative:
+done
+| Narrative:
+01/06/2019 2345 Checked §3               .
+19-240         1301    Phone ~ WELL BEING CHECK                     INVESTIGATED / REPORT
+TAREN
+Call Taker:    PATROL DAVID JENNINGS, D
+Location/Address:    BULKLEY st
+      Unit:    30
+               Disp-13:03:26 Enrt-13:05:08 Arvd-13:06:56 Clrd@-13:45:10
+Unit:    36
+               Disp-13:03:26 Enrt-13:03:43 Arvd-13:06:59 Clrd-13:33:17
+_ Narrative:
+            CP reports receiving suicidal text messages from her mother
+            about a half hour ago.
+Refer To Incident:    19-10-OF
+19-242        1323    $11 - ALARM - BURGLAR                    ALARM FALSE
+‘Call Taker:    PATROL DAVID JENNINGS, D                                                       :
+Location/Address:     [WIA 1628] COLD SPRING RD
+Unit:    30
+Disp-14:04:08 Enrt-14:04:26 Arvd-14:05:06 Clrd~14:07:07                   :
+| Narrative:       .                                                                           ,
+:           Entry/exit.
+            1327 alarm company called back party on scene but gave wrong
+           pass code.
+Narrative:
+            1334 Ofes tied up on other calls but spoke to the daughter's
+.      and the mother who states all is okay, daughter is opening
+            up while parents are away and took to long to disarm the
+           alarm.
+19-244 |       1341    $11 ~- ALARM - BURGLAR                       ALARM FOUNDED
+Call Taker:    PATROL DAVID JENNINGS, D
+Location/Address:    {WIA 177] MAIN ST
+Unit:    30
+              Disp-13:46:32 Enrt-13:46:37 Arvd-13:48:11 Clrd-14:03:07                     .
+_ Narrative:
+           Perimeter zone 117.
+:
+:
+|                             General entrance door found unlocked. Checked the entire
+|                          building, all appears to be in order. Spoke to a
+:                              Ge who is an employee of Goodwill and was in the parking
+|            lot collecting donations. Fry states seeing an older white
+                              male walking behind the building before the alarm, however,
+            he did not appear suspicious. MBM did not see the male
+7                              again. Unknown if someone opened the door believing the
+|            Library was open and that is what activated the alarm.
+|                              ~Sgt McGowan-
+19-246 |       1421    911 - MOTOR VEHICLE ACCIDENT                INVESTIGATED / REPORT
+TAKEN
+Call Taker:    PATROL DAVID JENNINGS, DB
+Location/Address:    PARK ST + MAIN ST
+      Unit:    36
+.               Disp-14:23:58                 Arvd-14:24:55 Clhrd-14:48:46
+Location Change:    [WIA 243] NORTH ST [Modified: 01/06/2019 1424]
+,   Vehicle:    BLU 2002 BMW LL 325 Reg: PC NY DHA7336 VIN: WBAEP33472PE91095
+' Operator:    GURWITZ, JOSHUA A @ 577 WESTERN AVE Apt. #2 - ALBANY, NY 12203
+Race: W Sex: M
+     Owner:    GURWITZ, PAUL M @ 70-20 108 ST Apt. #1C - FOREST HILLS, NY 11375
+,               Race: W Sex: M
+   Vehicle:    BLK 2015 JEEP 4D GRAND CHEROKEE Reg: PC VT GHR233 VIN:
+IC4RIFBG7FC631708
+Operator:    MAHAR, GRACE @ 881 MONUMENT AVE - BENNINGTON, VT 05201
+Race: W Sex: F
+     Owner:    MAHAR,E,P SON INC @ 881 MONUMENT AVE - BENNINGTON, VT 05201
+. Narrative:
+Past MVA caller got a picture of the vehicle and insurance
+infomation, is enroute to the station to give information
+and pictures.
+Refer To Accident:    19-4-AC
+19-250         1650    Radio - MOTOR VEHICLE ACCIDENT              INVESTIGATED / REPORT
+TAKEN                                                                                                 |
+‘Call Taker:    DISPATCHER LAURIE TUPER
+Location/Address:    (WIA 6] SOUTH ST
+,             Unit:    32
+Disp-16:50:00                 Arvd-16:53:04 Clrd-17:26:26
+      Unit:    38
+            Disp-16:50:00             Arvd-16:53:07 Clrd-17:20:26
+;   Vehicle:    GRY 2007 HOND CRV Reg: PC MA 413NG5 VIN: JHLRE48597C117300
+Towed:    For: ACCIDENT By: RONS AUTO REPAIR To: RONS TOWING
+. Operator:    KORYUSHKINA, ELIZAVETA @ 600 PINE COBBLE RD - WILLIAMSTOWN, MA 01267-
+2328
+Race: W Sex: F
+Owner:    ASHRAF, QUAMRUL. H @ 600 PINE COBBLE RD - WILLIAMSTOWN, MA 01267-2328           |
+               Race: W Sex: M
+   Vehicle:    WHI 2014 FORD AM E450 Reg: MA AMB2817 VIN: 1FDXE4FS4EDB02123                :
+. Operator:    GLEASON, CHRISTOPHER M @ 3663 RTE 346 - POWNAL, VT 05260
+.           Race: W Sex: M
+Refer To Citation:    T1400615                                                                       )
+     Owner:    NORTH ADAMS AMBULANCE SERVICE INC @ BX 1045 - N ADAMS, MA 01247-1045           |
+Race: U Sex: U                                                                |
+Narrative:
+Reports they were involved in an accident in route to
+previous call.
+.           1654 hrs. Ron notified and in route.
+Refer To Accident:    19-5-AC
+19-253         2044    Initiated - MOTOR VEHICLE STOP               CITATION - WARNING
+.Call Taker:    PATROL KEVIN P GARNER
+Location/Address:    NEW ASHFORD RD
+Unit:    34
+Arvd-20:44:50 Clrd-20:49:32
+Vehicle:    GRY 2011 CHEV SE MALIBU Reg: PC MA 1616BP VIN: 1G1LZCSE1L2BF128147
+_ Operator:    CANNING, CHRISTINE M @ 12 NOPPET RD - LANESBOROUGH, MA 01237
+               Race: W Sex: F
+Refer To Citation:    T1400640
+     Owner:    CANNING, JOHN F @ 44 AUBURN ST - PITTSFIELD, MA 61201-1424
+Race: U0 Sex: M
+For Date: 01/07/2019 - Monday
+19-255 |       0250    Initiated - MOTOR VEHICLE STOP               CITATION - WARNING
+‘Call Taker:    SERGEANT PAUL D THOMPSON
+Location/Address:    MAIN ST
+Unit:    38
+                                             Arvd-02:50:38 Clrd-02:57:19
+   Vehicle:    WHI 2009 CHEV SE MALIBU Req: PC MA 774%R3 VIN: 161Z057BX94187156             |
+_ Operator:    ROBILARD, MITCHEL A @ 101 RAMSEY CT - CARY, NC 27511
+     Race: W Sex: M
+Refer To Citation:    R7864373                                                                       |
+     Owner:    PROVENCHER, ASHLEY MARIE @ 232 HOUGHTON ST - N ADAMS, MA 01247~-2433
+               Race: U Sex: F
+19-256 —       0340    Initiated - PARKING CHECK                    SERVICES RENDERED
+Call Taker:    PATROL CRAIG A EICHHAMMER                   ;
+Location/Address:    (WIA 249] NORTH ST
+Unit:    31                                                                             :
+Arvd-03:40:35 Clrd-03:41:35                     |
+19-257 |       0715    Initiated - TRAFFIC CONTROL                  SERVICES RENDERED
+Call Taker:    SERGEANT SCOTT E MCGOWAN
+Location/Address:    COLD SPRING RD                                                                 .
+      Unit:    30
+Arvd-07:15:44 Clrd-07:35:19
+Unit:    33                                                                             |
+Disp-14:13:33                 Arvd-14:13:512 Clrd-14:40:19
+19-258         0727    911 -~ SUSPICIOUS ACTIVITY                    SERVICES RENDERED
+Call Taker:    PATROL DAVID JENNINGS, D
+Location/Address:    {WIA 151] COLD SPRING RD
+Narrative:
+.            CP reports his 2 wallets with medical cards and $18.00 was
+stolen from his drawer. While speaking with CP he found
+            items in his chair. Called sweetbrook to have them check on
+           CP.
+19-259 _       0743    Initiated ~ TRAFFIC CONTROL                  SERVICES RENDERED
+Call Taker:    SERGEANT SCOTT E MCGOWAN
+Location/Address:    GALE RD
+     Unit:    30
+Arvd-07:44:04 Clrd-07:59:48
+     Unit:   ‘38
+Disp-15:03:36 Enrt-15:03:45 Arvd-15:03:49  Clrd-15:18:01
+,      19-260         g803    Initiated - BUILDING CHECK                   BUILDING CHECKED/SECURED
+Call Taker:    PATROL TANIA HERNANDEZ
+Location/Address:    LONGVIEW TER
+Unit:    36
+Arvd-08:03:51 Clrd~08:04:24
+. Narrative:
+.            checked
+' Narrative:
+            Checked 0051
+19-261         0807    Initiated - BUILDING CHECK                   BUILDING CHECKED/SECURED
+Call Taker:    PATROL TANIA HERNANDEZ
+Location/Address:    FRENIER AVE
+|      Unit:    36
+                                             Arvd-08:07:47 Clrd-08:08:25
+Narrative:
+checked
+Narrative:
+Checked 0111
+19-262 |       osos    Initiated - BUILDING CHECK                   BUILDING CHECKED/SECURED
+Call Taker:    PATROL TANIA HERNANDEZ                                                         |
+Location/Address:    HARWOOD ST
+Unit:    36
+Arvd-08:08:54 Clrd-08:09:36
+Narrative:                                                                                   |
+checked                     ,
+Narrative:
+‘                       Checked 0118
+7          19-263 |       0813    Initiated - TRAFFIC CONTROL                  SERVICES RENDERED
+7                  Call Taker:    SERGEANT SCOTT E MCGOWAN
+            Location/Address:    COLE AVE
+                        Unit:    30
+                                             Arvd-08:14:12 Clird-08:35:33
+19-264         0815    Initiated - TRAFFIC CONTROL                  SERVICES RENDERED                 |
+Call Taker:    PATROL TANIA HERNANDEZ
+Location/Address:    {WIA 333] CHURCH ST                                                            |
+      Unit:    36
+Arvd-08:16:06 Clrd-08:40:04                     |
+Unit;    32
+               Disp-14:58:06 Enrt-14:58:13 Arvd-14:59:51 Clrd~15:15:56
+19-265         0841    Initiated - PUBLIC SERVICE                  SERVICES RENDERED                 |
+Call Taker:    PATROLMAN MICHAEL J ZIEMBA Jr
+Location/Address:    MAIN ST
+Unit:    37K
+Arvd~08:42:53 Clird-08:42:59                     !
+Narrative:
+           Lock down presentation to staff/faculty.                                          }
+19-266         0848    Fnitiated - ROAD CONDITIONS                 REMOVED HAZARD                    ,
+Call Taker:    SERGEANT SCOTT E MCGOWAN                             |
+Location/Address:    NORTH HOOSAC RD                                                                2
+:     Unit:    30                                                                             ,
+Arvd-08:48:21 Clrd-08:53:54
+Vehicle:    WHI 2006 FORD F350 Reg: CO MA S24884 VIN: 1FTSP31596EC67720
+Operator:    PETRI, JOHN M @ 45 BELMAR DR - CLARKSBURG, MA 01247
+Race: W Sex: M
+Owner:    PETRI, JOHN M @ 45 BELMAR DR - CLARKSBURG, MA 01247
+              Race: W Sex: M
+_ Narrative:
+            Bag of trash in travel lane. While removing the hazard,
+           operator of truck which it came off returned to pick-up.
+19-267 ©       0856    Initiated - BUILDING CHECK                   BUILDING CHECKED /SECURED
+Call Taker:    SERGEANT SCOTT E MCGOWAN
+Location/Address:    NORTH HOOSAC RD
+Unit:    30
+Arvd-08:56:54 Clrd-08:57:14
+_ Narrative:
+.            checked
+' Narrative:
+            01/08/2019 0049 Checked $3
+| Narrative:
+done       .
+19-268 :       0857    Initiated - MOTOR VEHICLE STOP               CITATION - WARNING
+Call Taker:    PATROL TANIA HERNANDEZ
+Location/Address:    MAIN ST                                                              .
+Unit:    36
+                                             Arvd-08:57:59 Clrd-09:03:19
+Vehicle:    GRN 2011 HOND CRV Reg: PC MA 6BWY60 VIN: JHLRE4H34BC019699
+:  Operator:    PELAEZ, NINA COLETTE @ 515 MAIN ST Apt. #B - WILLIAMSTOWN, MA 01267-
+2647
+Race: W Sex: F
+Refer To Citation:    T1400573
+Owner:    PELAEZ, NINA COLETTE @ 515 MAIN ST Apt. #B - WILLIAMSTOWN, MA 01267-
+2647
+;               Race: U Sex: F
+19-269       0858    Initiated - BUILDING CHECK                   BUILDING CHECKED/ SECURED
+Call Taker:    SERGEANT SCOTT E MCGOWAN
+:       Location/Address:    [WIA 1832] NORTH HOOSAC RD
+Unit:    30
+                                             Arvd-08:59:12 Clrd-09:00:05
+. Narrative:
+            Checked
+. Narrative:
+.            checked
+. Narrative:
+done
+ Narrative:
+01/08/2019 0051 Checked §3
+. Narrative:
+01/08/2019 0533 Checked S3
+19-271         0923    Initiated - MOTOR VEHICLE STOP              CITATION ~ Civil
+‘Call Taker:    PATROL TANIA HERNANDEZ
+Location/Address:    NORTH HOOSAC RD
+      Unit:    36
+                                             Arvd-09:23:32 Cilrd-09:32:24
+Vehicle:    GRY 2007 HYUN TUCSON  Reg: PC MA SFW892 VIN: KM80M12B77U650293
+  Operator:    SAUNDERS, AMANDA J @ 11 DODGE AVE - PITTSFIELD, MA 01201-7263
+,               Race: W Sex: F
+Refer To Citation:    T1400574
+     Owner:    SAUNDERS, AMANDA J @ 11 DODGE AVE - PITTSFIELD, MA 01201-7263
+               Race: U Sex: F
+.         19-272         0940    Initiated - PARKING CHECK                    SERVICES RENDERED
+Call Taker:    PATROL TANIA HERNANDEZ
+Location/Address:    SPRING ST
+      Unit:    36
+                                             Arvdad-09:40:33 Clrd-09:48:30
+. Narrative:
+            no violations
+19-273 —       0949.   Initiated ~ PARKING CHECK                    SERVICES RENDERED      .
+Call Taker:    PATROL TANIA HERNANDEZ
+Location/Address:    PARK ST
+Unit:    36
+                                             Arvd-09:50:27 Clrd-09:54:47
+Narrative:
+           3 violations
+19-274         0956    Initiated - BUILDING CHECK                   BUILDING CHECKED /SECURED
+Call Taker:    PATROL TANIA HERNANDEZ
+Location/Address:    [WIA 333] CHURCH ST
+/      Unit:    36
+Arvd-09:56:19 Clrd-09:58:19
+Narrative:
+Checked                                                                           |
+19-275         1044    Initiated - BUILDING CHECK                   BUILDING CHECKED/SECURED          ,
+Call Taker:    PATROL TANIA HERNANDEZ                                                         )
+Location/Address:    HAWTHORNE RD
+      Unit:    36
+Arvd-10:44:57 Clrd-10:46:04
+Narrative:
+           checked
+. Narrative:
+           Checked 0131
+19-276 |       1130    911 - 9-1-1 WRONG NUMBER                     SERVICES RENDERED
+Call Taker:    PATROL DAVID JENNINGS, D
+Narrative:
+.           Telemarketer.
+19-277         1202    Initiated - BUILDING CHECK                   BULLDING CHECKED / SECURED
+‘Call Taker:    PATROL TANIA HERNANDEZ
+Location/Address:    COLD SPRING RD
+Unit:    36                                                                     |
+                                             Arvd-12:02:27 Clrd-~12:04:31
+Narrative:
+           done
+Narrative:
+:            Checked 0238
+19-278 =|       1212    Initiated - BUILDING CHECK                   BUILDING CHECKED/SECURED
+Call Taker:    PATROL TANIA HERNANDEZ
+|         Location/Address:    {WIA 225] COLD SPRING RD
+         Unit:      36
+                                             Arvd-12:12:58 Clrd-12:16:12
+19-279 —       1219    Phone - MOTOR VEHICLE LOCK OUT              VEHICLE OPENED
+Cail Taker:    PATROL DAVID JENNINGS, D
+Location/Address:    [WIA 157] NORTHWEST HILL RD
+      Unit:    36
+               Disp-12:20:49 Enrt-12:21:04 Arvd-12:29:32 Clrd-12:43:56
+Vehicle:    GRY 2003 SUBA FOREST Reg: PC MA 300KSH VIN: JF1SG63643H766798
+Operator:    WHITMAN, PANSY @ 1249 NORTHWEST HILL RD - WILLIAMSTOWN, MA 01267-2047
+               Race: W Sex: F
+     Owner:    WHITMAN, PANSY @ 1249 NORTHWEST HILL RD - WILLIAMSTOWN, MA 01267-2047
+              Race: U Sex: F       .
+Narrative:
+LOcked her keys in her car at her residence, car is located
+.            in the garage.
+19-280         1229    Other - PUBLIC RECORDS REQUEST               SERVICES RENDERED
+Call Taker:    CHIEF KYLE J JOHNSON
+- Narrative:                                                                                   |
+.            Requesting Taser Deployment & training records from 2009 to                       |
+.            present. Emailed.
+19-281 |       1318    Initiated - TRAFFIC COMPLAINT                SERVICES RENDERED
+Call Taker:    PATROL TANIA HERNANDEZ                                                         :
+Location/Address:;    NORTH HOOSAC RD
+Unit:    36
+|                                             Arvd-13:22:56 Clrd-13:23:29
+Vehicle:    BLU 2013 FORD F550 Reg: CO MA R34620 VIN: 1FDUFSHTIDEA88685                  :
+. Operator:    RAMSDELL, RICHARD © 120 WEST RD - ADAMS, MA 01220                               ;
+Race: W Sex: M
+     Owner:    MALLARDS TRUCKING LLC @ 71 TREMONT ST ~ NORTH ADAMS, MA 01247
+. Narrative:
+            Truck losing empty boxes, stopped and advised going back to
+pick up items,
+Narrative:
+            Items were picked up.
+19-285 |       1445    Phone - SUSPICIOUS ACTIVITY                  SERVICES RENDERED
+Call Taker:    DISPATCHER LAURIE TUPER
+Location/Address:    (WIA 151] COLD SPRING RD
+     Unit:    36                                                                             .
+              Disp-14:45:20 Enrt-14:45:20 Arvd-14:45:20 Clrd-14:51:50
+Narrative:
+:           Female resident of Sweet Brook, refusing to give her name or
+           names of people involved, requests to speak to officer
+.           regarding an incident that happened last Saturday.
+Narrative:
+Officer Hernandez spoke with female party (RP) who refused
+to give her name. RP asked what would happen if she called
+the police if she was assaulted and wanted to see an officer
+           and file a report. She was advised one would be dispatched
+           to speak with her. RP stated that she wanted to speak with
+           a supervisor about the incident on Saturday in which no
+           officer responded to a female who was assaulted and she
+:           heard the whole incident, in which a staff member told the
+           female not to call the police. RP kept. going back and forth
+about both issues and stated she was concerned for her                            ,
+safety because no police would respond and she would not
+.            listen to the officer and hung up.
+Refer To Incident;    19-13-OF
+19-284 ©       1449    Initiated - MOTOR VEHICLE STOP               CITATION ~- WARNING
+Call Taker:    CHIEF KYLE J JOHNSON
+Location/Address:    HANCOCK RD
+      Unit:    33
+Arvd-14:49:30 Clrd-14:57:26
+   Vehicle:    GRY 2011 SUBA LL OUT Reg: PC NY FGP6646 VIN: 4S4BRDLC8B2372975
+Operator:    WOLFE, LILA MANDANA @ 266 PALMER AVE - SLEEPY HOLLOW, NY 20591.
+:               Race: W Sex: F
+Refer To Citation:    TO905979
+Owner:    WOLFE, HALEH T @ 266 PALMER AVE - SLEEPY HOLLOW, NY 10591
+Race: U Sex: F
+19-286         1517    Initiated - PARKING CHECK                    SERVICES RENDERED
+Call Taker:    PATROL SHUAN N WILLIAM
+Location/Address:;    SPRING ST
+Unit:    32
+,                                             Arvd-15:18:13 Clrd-15:23:13
+| Narrative:
+.            01/07/2019 1518 ~ Start
+01/07/2019 1700 - 2 violations           |
+19-287 ©       1518    Initiated - PARKING CHECK                    SERVICES RENDERED
+Call Taker:    PATROL JOHN J MCCONNELI JR
+Location/Address:    PARK ST
+Unit:    38                                                                             |
+                                             Arvd-15:19:08 Clrd-15:23:42                     ,
+19-288         1704    Phone - 9-1-1 TEST CALL.                     SERVICES RENDERED
+Call Taker:    DISPATCHER LAURIE TUPER
+Location/Address:    {WIA 249] NORTH ST
+- Narrative:
+All procedures followed.
+19-289         1708    Initiated - PARKING CHECK   SERVICES RENDERED
+Call Taker:    PATROL SHUAN N WILLIAM
+Location/Address:    [WIA 406] SCHOOL ST
+Unit:    32
+Arvd-17:09:05 Clrd-17:13:21
+Narrative:      ~                                                                            |
+|           01/07/2019 1708 - no violations                                                   |
+19-328 —      1730    Phone - VANDALISM                           INVESTIGATED / REPORT             .
+TAREN  ,
+Call Taker:    PATROLMAN MICHAEL J ZIEMBA Jr                                                  |
+Location/Address:    [WIA 225] COLD SPRING RD                                                       |
+- Narrative:                                                                                 |
+.           RP has a video of a 14 YOA student vandalizing school bus
+           seat.                                                                           |
+Refer To Incident:    19-14-OF
+19-290         1816    Initiated - BUILDING CHECK                  BUILDING CHECKED/SECURED
+Call Taker:    PATROL SHUAN N WILLIAM
+Location/Address:    SIMONDS RD
+;     Unit:    32                                                                           :
+Arvd-18:16:27 Clrd-18:18:05
+Narrative:
+done
+| Narrative:
+:            01/08/2019 0131 Checked $3
+19-291         1850    Initiated - MOTOR VEHICLE STOP               CITATION = WARNING
+Call Taker:    PATROL SHUAN N WILLIAM
+Location/Address:    HANCOCK RD
+Unit:    32
+Arvd-18:506:51 Clrd-18:57:0603
+:   Vehicle:    GRN 2008 HOND CRV Reg: PC MA 79XE55 VIN: JHLRE48748C051886
+Operator:    SKINNER, ANNE R @ 714 STRATTON RD - WILLIAMSTOWN, MA 01267
+.               Race: W Sex: F
+Refer To Citation:    T1400587                                                                       :
+Owner:    SQUIRE, GORDON C @ 714 STRATTON RD - WILLIAMSTOWN, MA 01267-0353
+               Race: W Sex: M
+19-292         1903    Initiated - MOTOR VEHICLE STOP               CITATION - WARNING
+Call Taker:    PATROL SHUAN N WILLIAM
+Location/Address:    NEW ASHFORD RD
+     Unit:    32                   .
+Arvd~19:03:53 Clrd-19:08:47                     |
+   Vehicle:    BLK 2017 CHEV COLORA Reg: PC MA DV7518 VIN: 1GCGTBEN8H1181280
+Operator:    DOYLE, DORAN PATRICK @ 332 HANCOCK RD ~ PITTSFIELD, MA 01201                   2
+Race: W Sex: M                                                                ,
+Refer To Citation:    TIi400S88
+Owner:    DOYLE, DORAN PATRICK @ 332 HANCOCK RD ~ PITTSFIELD, MA 01201
+Race: W Sex: M
+19-294 _      1925    Initiated - MOTOR VEHICLE STOP             CITATION - WARNING
+Call Taker:    PATROL SHUAN N WILLIAM
+Location/Address:    NEW ASHFORD RD
+     Unit:    32
+                                            Arvd-19:25:11 Clrd-19:30:20
+Vehicle:    BLK 2014 VOLK SE JETTA  Req: PC MA 2DA455 VIN: 3VWB17AJ3EM439748
+' Operator:    ZIMMERMAN, DAVID J @ 29 HAWTHORNE RD - WILLIAMSTOWN, MA 01267-2754
+Race: W Sex: M
+Refer To Citation:    T1400589
+Owner:    ZIMMERMAN, DAVID J @ 29 HAWTHORNE RD - WILLIAMSTOWN, MA 01267-2754             .
+              Race: W Sex: M
+19-295.      1931    Initiated - MOTOR VEHICLE STOP             CITATION - WARNING                }
+Call Taker:    PATROL KEVIN P GARNER                                                      |
+Location/Address;    COLD SPRING RD
+Unit:    34                                                                           :
+                                            Arvd-19:32:01 Cird-19:37:20
+  Vehicle:    GRY 2014 TOYT SE CAMRY Reg: PC MA 4MZi56 VIN: 4TILBDLFK7EU137864              .
+Operator:    OXTOBY, MARGARET J @ 110 HILL PROVINCE RD - WILLIAMSTOWN, MA 01267
+Race: W Sex: F                                                                {
+Refer To Citation:    T1400361                                                                       q
+    Owner:    SILVA, CESAR E @ 110 HILL PROVINCE RD - WILLIAMSTOWN, MA 01267-2033
+Race: U Sex: M
+19-327         2000    Phone ~ LARCENY                              SERVICES RENDERED
+Call Taker:    PATROLMAN MICHAEL J ZIEMBA Jr
+Location/Address:    {WIA 151] COLD SPRING RD
+Narrative;
+Party reported larceny to administrator. reports
+missing roughly $300. Through initial invest, staff has
+.           veportedly accounted for $280. Will advise once complete
+with invest. It appears that has misplaced the money
+            due to mental health.
+Refer To Incident:    19-28-OF
+For Date: 01/08/2019 - Tuesday
+19-297         0008    Initiated - BUILDING CHECK                  BUILDING CHECKED/SECURED
+Call Taker:    SERGEANT PAUL D THOMPSON
+Location/Address:    MAIN ST
+Unit:    38
+Arvd-00:09:56 Clrd-00:09:59
+ Narrative:
+01/08/2019 0009 Checked $3 TT waiting at mouth of driveway
+            but no other activity.
+19-298         0022    Initiated - SUSPICIOUS MOTOR VEHICLE        SERVICES RENDERED
+Call Taker:    SERGEANT PAUL D THOMPSON
+Location/Address:    MAIN ST + SPRING ST
+Unit:    38
+                                             Arvd-00:22:05 Clrd-00:24:32
+   Vehicle:    GRN 2004 VOLV LL XC70 Reg: PC NY CLH6639 VIN: YV1S259H541170031              :
+Operator:    HOCHMAN, ALAN M @ 35 WEST 81ST ST Apt. #4A - NEW YORK, NY 10024                |
+               Race: U Sex: M                                                                ,
+.     Owner :    HOCHMAN, ALAN M @ 35 WEST 81ST ST Apt. #4A - NEW YORK, NY 10024
+Race: U Sex: M                                                                .
+' Narrative:
+Vehicle parked roadside with no lights. Found that
+individuals were looking to get to Williams Security. Given
+directions.
+|          19-299         0152    Initiated ~- ROAD CONDITIONS                  LOG ENTRY REQUEST
+                 Call Taker:    ALL EQUIPMENT POLICE DEPARTMENT
+:            Location/Address:    BRIDGES RD + NORTH HOOSAC RD
+Unit:    38
+                                             Arvd~02:52:00 Clrd-01:54:45
+Narrative:
+:            Located pieces of shredded tire along North Hoosac and
+            Bridges Rd. Checked entire length of road and unable to find
+            any vehicle disabled.S3
+19-360 —       0256    Radio ~ ROAD CONDITIONS                     SERVICES RENDERED
+Call Taker:    PATROL ANTHONY M DUPRAT
+Location/Address:    [WIA 249] NORTH ST
+. Narrative;                                                                                   ,
+            Roads snow covered and slick. Dispatch to notify DPW.
+Narrative:                                                                                   2
+            DPW notified.                                                                     .
+19-301 —       0336    initiated - PARKING CHECK                    SERVICES RENDERED
+Call Taker:    PATROL CRAIG A RICHHAMMER
+Location/Address:    (WIA 249] NORTH ST                                                             ,
+Unit:    32                                                       |
+                                            Arvd-03:36:22 Clrd-03:36:38                     ,
+19-302         0653    Initiated - SERVE SUMMONS                   MATLED
+Call Taker:    PATROLMAN MICHAEL J ZIEMBA Jr
+Location/Address:    CHARLES ST                                                            :
+|     Unit:    37K
+                                            Arvd-06:53:46 Clrd-06:55:05
+Narrative:
+           Summons mailed to witness, docket # 1828CRO298.
+19-303.         0713    Initiated - TRAFFIC CONTROL                  SERVICES RENDERED
+Call Taker:    PATROL DAVID JENNINGS, D                                                       .
+Location/Address:    COLD SPRING RD                                                                 |
+.     Unit:    34
+                                            Arvd-07:13:58 Clrd-07:42:17
+.     Unit:    34
+Disp-14:32:47                 Arvd-24:32:52 Clrd-14:38:26
+19-304 |       0743    Initiated - TRAFFIC CONTROL                  SERVICES RENDERED
+Call Taker:    PATROL DAVID JENNINGS, 0D
+Location/Address:    GALE RD
+.     Unit:    34
+                                            Arvd-07:43:23 Clrd-08:05:52
+     Unit:    34
+              Disp-14:11:06 Emnrt-14:11:23 Arvd-14:12:16 Clrd-14:23:02
+     Unit:    34
+Disp~-14:30:05                 Arvd-14:30:32 Clrd-14:32:40
+Unit:    34
+              Disp~-14:56:22 Emnrt-14:57:22 Arvd-14:58:56 Clrd-15:15:11
+19-305         0805    Initiated - TRAFFIC CONTROL                  SERVICES RENDERED
+Call Taker:    PATROLMAN MICHAEL J ZIEMBA Jr
+Location/Address:    [WIA 333] CHURCH ST                                                            |
+Unit:    37K                                                                          |
+                                            Arvd-908:05:20 Cird-08:41:32                     |
+19-306 —      0805    Initiated - TRAFFIC CONTROL                 SERVICES RENDERED                 |
+Call Taker:    PATROL TANIA HERNANDEZ
+Location/Address:    COLE AVE                                                                       |
+     Unit:    36
+.                                            Arvd-08:06:02 Clrd-08:39:16
+|     Unit:    31                                                                           |
+              Disp-14:54:20 Emnrt-15:01:40 Arvd-15:02:18 Clrd-15:18:53                     5
+19-307 |      0831    Initiated - BUILDING CHECK                  BUILDING CHECKED/SECURED
+Call Taker:    PATROL DAVID JENNINGS, D                                                       .
+Location/Address:   NORTH HOOSAC RD                                                                :
+     Unit:    34                                                                           ,
+                                            Arvd~-08:31:30 Clrd-08:31:42
+Narrative:                                :
+           Checked S-4 17:50                                         :
+Narrative:
+           01/09/2019 0131 Checked $3.
+19-308 —      6832    Initiated - BUILDING CHECK                   BUILDING CHECKED/SECURED
+Call Taker:    PATROL DAVID JENNINGS, D                                                       :
+Location/Address:    (WIA 1832] NORTH HOOSAC RD                                                     :
+                      Unit:    34                                                                           .
+Arvd-08:32:54 Cird-08:34:17
+Narrative:
+checked
+‘Narrative:
+Checked S-4 16:47                                                             |
+Narrative:                                                                                    ;
+Checked S-4 19:50
+
