@@ -37,7 +37,7 @@ class Cleaner:
         more_to_find = True
         while more_to_find and loc[1] >  0:
             line_of_pixels = imarray[loc[0]-1,loc[1]:loc[1]+cursor_shape[1]]
-            if len(line_of_pixels[line_of_pixels < 10]) >= 0.5 * 3 * len(line_of_pixels):
+            if len(line_of_pixels[line_of_pixels < 10]) >= 0.1 * 3 * len(line_of_pixels):
                 loc = (loc[0]-1,loc[1])
             else:
                 more_to_find = False
@@ -45,7 +45,7 @@ class Cleaner:
         # find top edge
         while more_to_find and loc[0] > 0:
             line_of_pixels = imarray[loc[0]:loc[0]+cursor_shape[0],loc[1]-1]
-            if len(line_of_pixels[line_of_pixels < 10]) >= 0.5 * 3 * len(line_of_pixels):
+            if len(line_of_pixels[line_of_pixels < 10]) >= 0.1 * 3 * len(line_of_pixels):
                 loc = (loc[0],loc[1]-1)
             else:
                 more_to_find = False
@@ -53,7 +53,7 @@ class Cleaner:
         more_to_find = True
         while more_to_find and loc[1] + cursor_shape[1] < len(imarray[1]) - 1:
             line_of_pixels = imarray[loc[0]:loc[0]+cursor_shape[0],loc[1]+cursor_shape[1]+1]
-            if len(line_of_pixels[line_of_pixels < 10]) >= 0.5 * 3 * len(line_of_pixels):
+            if len(line_of_pixels[line_of_pixels < 10]) >= 0.1 * 3 * len(line_of_pixels):
                 cursor_shape = (cursor_shape[0],cursor_shape[1]+1)
             else:
                 more_to_find = False
@@ -70,16 +70,16 @@ class Cleaner:
         #now we just need to turn everything in the cursor white (or into a desired character)
         #Cleaner.print_symbols(imarray, loc, cursor_shape, '+')
         imarray[loc[0]:loc[0]+cursor_shape[0],loc[1]:loc[1]+cursor_shape[1]] = np.ones((cursor_shape[0],cursor_shape[1],3))*255
-        
+        Cleaner.print_symbols(imarray, loc, cursor_shape, '+')
                 
     def print_symbols(imarray, loc, cursor_shape, char):
         font = cursor_shape[0]
         spaces = int(cursor_shape[1]/font)
         if char=='+':
-            plus = Cleaner.plus(cursor_shape)
+            plus = Cleaner.plus((font,font))
             for i in range(spaces):
                 #imarray[loc[0]:loc[0]+cursor_shape[0],loc[1]+i*cursor_shape[0]:loc[1]+(i+1)*cursor_shape[0]] = Cleaner.plus((cursor_shape[0],cursor_shape[0]))
-                imarray[loc[0]:loc[0]+cursor_shape[0],loc[1]+i*cursor_shape[0]:loc[1]+(i+1)*cursor_shape[0]] = plus
+                imarray[loc[0]:loc[0]+font,loc[1]+i*font:loc[1]+(i+1)*font] = plus
                 
     def plus(shape): 
         line = 5 #lines are set to 5 pixels wide  
