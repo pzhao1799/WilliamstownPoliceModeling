@@ -74,5 +74,11 @@ $ py ./parse_log.py infile outfile
 
 - The program currently always writes to a csv called `2019_low.csv`. This functionality will later be removed or changed.
 
+### Building Maps (interactive_map.py):
+- used in parse_log.py to create folium maps of the data.
+- contains the function `geolocate` which was necessary for collection GPS data for maps
+- has a secondary map generator `make_loc_circle_map` that is used to make bubble maps of occurrences (explained in readme)
+- generates a map called `interactive_map.html`
+
 ## Next Steps
 - https://policescorecard.org/
