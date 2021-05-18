@@ -2,7 +2,7 @@
 
 ## Goals and Motivations
 
-This project is an effort to create a publicly accessible digital archive of Williamstown Police Department records.
+This project is an effort to create a publicly accessible digital archive of Williamstown Police Department records. We hope that the final product will allow users to accurately peruse and text-search years' worth of police records, including everyday logs, incident reports, and arrest/summons reports. Users will also be able to download a csv file, which can be used for statistical analysis.
 
 We are motivated in part by the recent history of the Williamstown Police Department. The *Williams Record* provides good coverage of some of the recent events that inspired this work. [This](https://williamsrecord.com/352894/news/lawsuit-brought-by-wpd-sergeant-alleges-sexual-assault-racial-harassment-by-williamstown-police-chief-and-unnamed-officers/) is an excellent starting place.
 
@@ -49,3 +49,4 @@ Some possible next steps may include, but are not limited to:
 - try to perform some general statistics on the data (which officers are involved in the most serious logs, where do they occur, are logs distributed evenly or pile up on weekends?)
 - Look into potential correlations with the races of police vs those being arrested/cited
 - There are a series of questions/notes that we received from DIRE
+- Get more years' worth of data - past 10 years would be desirable
