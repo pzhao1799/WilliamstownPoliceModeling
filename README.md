@@ -38,16 +38,15 @@ $ sudo apt-get install tesseract-ocr
 MacOS Only:
 ```
 $ brew install poppler
+$ brew install tesseract
 ```
-
-Todo: Need an easier way to install poppler for Windows.
 
 ## How to Run
 
 ### OCR (ocr.py):
 
 ```
-py ./ocr.py pdf-path png-path outfile mode
+$ py ./ocr.py pdf-path png-path outfile mode
 ```
 
 - `pdf-path` is the path to the directory containing the pdf files.
@@ -60,7 +59,7 @@ py ./ocr.py pdf-path png-path outfile mode
     - `"pdf"` will only convert the pdfs to pngs.
     - `"redact"` will only clean redaction marks on the pngs and output pngs.
     - `"ocr"` will only convert the pngs to text.
-    - `"both"` will do the full conversion from pdfs to text.
+    - `"all"` will do the full conversion from pdfs to text.
 
 ### Text Cleanup and Parsing (parse_log.py):
 
@@ -74,3 +73,11 @@ $ py ./parse_log.py infile outfile
 
 - The program currently always writes to a csv called `2019_low.csv`. This functionality will later be removed or changed.
 
+### Building Maps (interactive_map.py):
+- used in parse_log.py to create folium maps of the data.
+- contains the function `geolocate` which was necessary for collection GPS data for maps
+- has a secondary map generator `make_loc_circle_map` that is used to make bubble maps of occurrences (explained in readme)
+- generates a map called `interactive_map.html`
+
+## Next Steps
+- https://policescorecard.org/

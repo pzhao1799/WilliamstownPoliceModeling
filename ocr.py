@@ -13,8 +13,6 @@ from clean import Cleaner
 # pip3 install pytesseract, Pillow, pdf2image, scikit-image, numpy
 # sudo apt-get install tesseract-ocr, poppler-utils
 
-# Directory Structure
-
 def pdf_to_images(pdf_path, png_path, offset):
     """
     Takes in a path pdf_path to a PDF file, and saves them in another directory of 
@@ -54,13 +52,17 @@ def ocr(png_path, fp):
     text = str(((pt.image_to_string(image_file, config='--psm 6 -c preserve_interword_spaces=1'))))
     fp.write(text)
 
-def directory_apply_pdf2images(pdf_path, png_path):
+
+def sort_directory(path, fn):
+    return sorted(os.scandir(path), key = fn)
+
+def directory_apply_pdf2images(pdf_path, png_path, sort):
     """
     Iterates through each file in the directory specified by dir_path, and applies the given function
     to each file, if each file is file_type.
     """
     offset = 1
-    dir_entries = sorted(os.scandir(pdf_path), key = lambda x: int(x.path[x.path.rindex("-")+1:x.path.index(".")]))
+    dir_entries = dir_entries = sort_directory(pdf_path, lambda x: int(x.path[x.path.rindex("-")+1:x.path.index(".")])) if sort else os.scandir(pdf_path)
     for entry in dir_entries:
         if (entry.path.endswith(".pdf") and entry.is_file()):
             print("!: " + entry.path)
@@ -68,19 +70,19 @@ def directory_apply_pdf2images(pdf_path, png_path):
     print("PDF to Image conversion complete")
             
 def directory_apply_redact(png_path):
-    dir_entries = sorted(os.scandir(png_path), key = lambda x: int(x.path[x.path.rindex("/") + 6:x.path.index(".")]))
+    dir_entries = sort_directory(png_path, lambda x: int(x.path[x.path.rindex("/") + 6:x.path.index(".")]))
     for i, entry in enumerate(dir_entries):
         if (entry.path.endswith(".png") and entry.is_file()):
             redact(entry.path)
             print("Redacted page " + str(i) + "...")
 
-def directory_apply_ocr(png_path, output):
+def directory_apply_ocr(png_path, output, sort):
     """
     Iterates through each file in the directory specified by dir_path, and applies the given function
     to each file, if each file is file_type. Appends to output.
     """
     fp = open(output, "w")
-    dir_entries = sorted(os.scandir(png_path), key = lambda x: int(x.path[x.path.rindex("/") + 6:x.path.index(".")]))
+    dir_entries = dir_entries = sorted(os.scandir(png_path), key = lambda x: int(x.path[x.path.rindex("/") + 6:x.path.index(".")])) if sort else os.scandir(png_path)
     for i, entry in enumerate(dir_entries):
         if (entry.path.endswith(".png") and entry.is_file()):
             ocr(entry.path, fp)
@@ -110,6 +112,11 @@ if __name__ == "__main__":
                         metavar='mode',
                         type=str,
                         help='the usage mode')
+    parser.add_argument('sort',
+                        metavar='sort',
+                        type=int,
+                        help='the sorting method',
+                        default = 0)
                         
 
     args = parser.parse_args()
@@ -127,7 +134,7 @@ if __name__ == "__main__":
 
     # Need to convert pdfs to pngs
     if args.mode == "pdf":
-        directory_apply_pdf2images(args.pdfpath, args.pngpath)
+        directory_apply_pdf2images(args.pdfpath, args.pngpath, args.sort)
         pngs = os.listdir(args.pngpath)
 
     # Need to convert pngs to cleaned pngs
@@ -137,9 +144,9 @@ if __name__ == "__main__":
 
     # pngs to text
     if args.mode == "ocr":
-        directory_apply_ocr(args.pngpath, args.outfile)
+        directory_apply_ocr(args.pngpath, args.outfile, args.sort)
 
     if args.mode == "all":
-        directory_apply_pdf2images(args.pdfpath, args.pngpath)
+        directory_apply_pdf2images(args.pdfpath, args.pngpath, args.sort)
         pngs = os.listdir(args.pngpath)
-        directory_apply_ocr(args.pngpath, args.outfile)
+        directory_apply_ocr(args.pngpath, args.outfile, args.sort)
