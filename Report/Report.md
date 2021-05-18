@@ -51,3 +51,4 @@ Some possible next steps may include, but are not limited to:
 - try to perform some general statistics on the data (which officers are involved in the most serious logs, where do they occur, are logs distributed evenly or pile up on weekends?)
 - Look into potential correlations with the races of police vs those being arrested/cited
 - There are a series of questions/notes that we received from DIRE
+- get more years' worth of data (hopeful the past 10)
