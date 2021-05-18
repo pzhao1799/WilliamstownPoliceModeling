@@ -38,6 +38,7 @@ $ sudo apt-get install tesseract-ocr
 MacOS Only:
 ```
 $ brew install poppler
+$ brew install tesseract
 ```
 
 Todo: Need an easier way to install poppler for Windows.
@@ -47,7 +48,7 @@ Todo: Need an easier way to install poppler for Windows.
 ### OCR (ocr.py):
 
 ```
-py ./ocr.py pdf-path png-path outfile mode
+$ py ./ocr.py pdf-path png-path outfile mode
 ```
 
 - `pdf-path` is the path to the directory containing the pdf files.
