@@ -4,7 +4,9 @@ Goals/Motivations
 Materials
 Process
 Current State of Things (high-level overview)
+
 Next Steps
+
 Some possible next steps may include, but are not limited to:
 - cleaning some of the data and verifying its legitimacy (the log number and date are not done, status is mostly done, the dispatcher is mostly done, the location data is done) 
 - generating the data in a time series (folium has a cloropleth package feature that may be useful, but other programs may be needed)
