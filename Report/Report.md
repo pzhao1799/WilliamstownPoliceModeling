@@ -20,9 +20,7 @@ The incident reports provided more detail on specific events described in some o
 
 Overall, the logs provide a more holistic view on the actions of the Williamstown Police Department. As a result, the majority of our work so far has been on processing these documents. All of the logs and reports, however, have been scanned as PDF documents for future use and ease of access. 
 
-##Process
-
-## Current State of Things
+## Process and Current State of Things
 Currently, we have developed a small set of Python scripts that assist in the processing
 of the multiple files in a pipelined fashion. We decided that there were a few separable steps
 in which we could interpret our data, and we list them below.
