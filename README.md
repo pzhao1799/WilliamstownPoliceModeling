@@ -41,8 +41,6 @@ $ brew install poppler
 $ brew install tesseract
 ```
 
-Todo: Need an easier way to install poppler for Windows.
-
 ## How to Run
 
 ### OCR (ocr.py):
