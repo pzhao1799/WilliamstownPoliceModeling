@@ -61,6 +61,10 @@ $ py ./ocr.py pdf-path png-path outfile mode
     - `"ocr"` will only convert the pngs to text.
     - `"all"` will do the full conversion from pdfs to text.
 
+- `sort` is the sorting method.
+    - `1` will use the built in sorting method specified for this data set
+    - `0` uses default sorting method based on the file system
+
 ### Text Cleanup and Parsing (parse_log.py):
 
 ```
